@@ -1,0 +1,16 @@
+gpu=1 \
+dataset="pascal" \
+name="ckpt_pascal" \
+niter=2000 \
+lr_decay=0.5 \
+decay_every=100 \
+data_root="data/train_data" \
+classnames="data/train_data/classes.txt" \
+trainids="data/train_data/classids.txt" \
+nThreads=6 \
+checkpoint_dir="checkpoints" \
+numCaption=1 \
+print_every=4 \
+save_every=100 \
+use_cudnn=1 \
+th train.lua
