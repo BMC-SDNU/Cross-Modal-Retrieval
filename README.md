@@ -1,7 +1,18 @@
-# cross-modal real-valued
+# Cross-modal Retrieval
 
 - [Introduction](#introduction)
 - [Supported Methods](#supported-methods)
+    - [Unsupercised-cross-modal-hashing-retrieval](#Unsupercised-cross-modal-hashing-retrieval)
+        - [Matrix Factorization](#Matrix-Factorization)
+        - [Graph Theory](#Graph-Theory)
+        - [Other Shallow](#Other-Shallow)
+        - [Quantization](#Quantization)
+        - [Naive Network](#Naive-Network)
+        - [GAN](#GAN)
+        - [Graph Model](#Graph-Model)
+        - [Knowledge Distillation](#Knowledge-Distillation)
+    - [supercised-cross-modal-hashing-retrieval](#supercised-cross-modal-hashing-retrieval)
+
     - [Unsupervised-cross-modal-real-valued](#Unsupervised-cross-modal-real-valued)
         - [CCA](#cca)
         - [Topic Model](#topic-model)
