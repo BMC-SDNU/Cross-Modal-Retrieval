@@ -1,0 +1,17 @@
+torch==1.10.0
+torchvision==0.11.1
+bitarray==2.3.4
+sacremoses==0.0.46
+fastBPE==0.1.0
+subword-nmt==0.3.7
+hydra-core==1.1.1
+omegaconf==2.1.1
+regex==2021.11.10
+tqdm==4.47.0
+pillow==7.2.0 
+simplejson==3.17.2
+lmdb==1.0.0
+tensorboard==2.4.1 
+transformers==4.6.0
+cython==0.29.21
+opencv-python==4.5.1.48
