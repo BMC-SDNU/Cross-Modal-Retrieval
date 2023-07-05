@@ -182,7 +182,7 @@
 
 ### Datasets
 
-**Graph Model--GCR**
+- **Graph Model--GCR**
 
 Dataset Link:
 
