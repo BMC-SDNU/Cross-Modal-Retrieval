@@ -177,3 +177,14 @@
 ### 2021
 
 - **RLCMR: Rethinking Label-Wise Cross-Modal Retrieval from A Semantic Sharing Perspective**  [[PDF]](https://www.ijcai.org/proceedings/2021/0454.pdf)
+
+# Usage
+
+### Datasets
+
+**Graph Model--GCR**
+
+Dataset Link:
+
+    Baidu Yun Link: https://pan.baidu.com/s/1YmW8Zz2uK3AgCs6pDEoA8A?pwd=21xh
+    Code: 21xh
