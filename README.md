@@ -1,4 +1,4 @@
-# cross-modal real-valued
+# Real-valued Cross-modal Retrieval
 
 - [Introduction](#introduction)
 - [Supported Methods](#supported-methods)
