@@ -1,0 +1,1 @@
+Path to save similarity matrixes during inference stage of Flickr30K.
