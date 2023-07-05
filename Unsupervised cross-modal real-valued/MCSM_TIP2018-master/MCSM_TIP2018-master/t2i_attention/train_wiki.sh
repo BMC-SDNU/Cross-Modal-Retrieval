@@ -1,0 +1,21 @@
+
+th ./t2i_attention/train_wiki.lua \
+  -data_dir ./t2i_attention/data \
+  -image_dir ./t2i_attention/data \
+  -learning_rate 0.00010 \
+  -symmetric 1 \
+  -max_epochs 1000 \
+  -savefile sje_c10_hybrid \
+  -num_caption 1 \
+  -gpuid 3 \
+  -print_every 100 \
+  -nclass 10 \
+  -image_dim 512 \
+  -doc_length 300 \
+  -img_seq_len 49 \
+  -image_noop 0 \
+  -eval_val_every 500 \
+  -emb_dim 4096 \
+  -learning_rate_decay 1 \
+  -bidirectional 0 \
+  -batch_size 40 

@@ -1,0 +1,17 @@
+th ./i2t_attention/train_wiki.lua \
+  -data_dir ./i2t_attention/data \
+  -image_dir ./i2t_attention/data \
+  -learning_rate 0.00010 \
+  -symmetric 1 \
+  -max_epochs 1000 \
+  -savefile sje_c10_hybrid \
+  -num_caption 1 \
+  -gpuid 2 \
+  -print_every 100 \
+  -nclass 10 \
+  -image_dim 4096 \
+  -doc_length 2904 \
+  -image_noop 0 \
+  -emb_dim 4096 \
+  -learning_rate_decay 1 \
+  -eval_val_every 500 
