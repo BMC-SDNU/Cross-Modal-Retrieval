@@ -8,6 +8,7 @@
 - [GAN](#GAN)
 - [Graph Model](#Graph-Model)
 - [Transformer](#Transformer)
+- [Usage](#Usage)
 
 
 ## CCA
