@@ -50,10 +50,10 @@
         - [2.4.9 Transformer](#249-transformer)
     - [2.5 Extended cross-modal hashing retrieval](#25-extended-cross-modal-hashing-retrieval)
         - [2.5.1 Semi-Supervised (Real-valued)](#251-semi-supervised-real-valued)
-        - [2.5.2Semi-Supervised (Hashing)](#252-semi-supervised-hashing)
-        - [2.5.3Imbalance (Real-valued)](#253-imbalance-real-valued)
-        - [2.5.4Imbalance (Hashing)](#254-imbalance-hashing)
-        - [2.5.5Incremental](#255-incremental)
+        - [2.5.2 Semi-Supervised (Hashing)](#252-semi-supervised-hashing)
+        - [2.5.3 Imbalance (Real-valued)](#253-imbalance-real-valued)
+        - [2.5.4 Imbalance (Hashing)](#254-imbalance-hashing)
+        - [2.5.5 Incremental](#255-incremental)
 
 - [3. Usage](#3-usage)
 
