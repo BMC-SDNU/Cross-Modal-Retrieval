@@ -214,295 +214,295 @@ The currently supported algorithms include:
 
 #### 2022
 
-- **SCLCH: Joint Specifics and Consistency Hash Learning for Large-Scale Cross-Modal Retrieval**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/9850431)
+- **SCLCH: Joint Specifics and Consistency Hash Learning for Large-Scale Cross-Modal Retrieval(TIP)**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/9850431)
 
 #### 2020
 
-- **BATCH: A Scalable Asymmetric Discrete Cross-Modal Hashing**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/9001235) [[Code]](https://github.com/yxinwang/BATCH-TKDE2020)
+- **BATCH: A Scalable Asymmetric Discrete Cross-Modal Hashing(TKDE)**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/9001235) [[Code]](https://github.com/yxinwang/BATCH-TKDE2020)
 
 #### 2019
 
-- **LCMFH: Label Consistent Matrix Factorization Hashing for Large-Scale Cross-Modal Similarity Search**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/8423193)
+- **LCMFH: Label Consistent Matrix Factorization Hashing for Large-Scale Cross-Modal Similarity Search(TPAMI)**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/8423193)
 
-- **TECH: A Two-Step Cross-Modal Hashing by Exploiting Label Correlations and Preserving Similarity in Both Steps**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3343031.3350862)
+- **TECH: A Two-Step Cross-Modal Hashing by Exploiting Label Correlations and Preserving Similarity in Both Steps(MM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3343031.3350862)
 
 #### 2018
 
-- **SCRATCH: A Scalable Discrete Matrix Factorization Hashing for Cross-Modal Retrieval**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3240508.3240547)
+- **SCRATCH: A Scalable Discrete Matrix Factorization Hashing for Cross-Modal Retrieval(MM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3240508.3240547)
 
 #### 2017
 
-- **DCH: Learning Discriminative Binary Codes for Large-scale Cross-modal Retrieval**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/7867785)
+- **DCH: Learning Discriminative Binary Codes for Large-scale Cross-modal Retrieval(TIP)**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/7867785)
 
 #### 2016
 
-- **SMFH: Supervised Matrix Factorization for Cross-Modality Hashing**  [[PDF]](https://arxiv.org/abs/1603.05572)
+- **SMFH: Supervised Matrix Factorization for Cross-Modality Hashing(IJCAI)**  [[PDF]](https://arxiv.org/abs/1603.05572)
 
-- **SMFH: Supervised Matrix Factorization Hashing for Cross-Modal Retrieval**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/7466099)
+- **SMFH: Supervised Matrix Factorization Hashing for Cross-Modal Retrieval(TIP)**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/7466099)
 
 ### Dictionary Learning
 
 #### 2016
 
-- **DCDH: Discriminative Coupled Dictionary Hashing for Fast Cross-Media Retrieval**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/2600428.2609563)
+- **DCDH: Discriminative Coupled Dictionary Hashing for Fast Cross-Media Retrieval(MM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/2600428.2609563)
 
 #### 2014
 
-- **DLCMH: Dictionary Learning Based Hashing for Cross-Modal Retrieval**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/2964284.2967206)
+- **DLCMH: Dictionary Learning Based Hashing for Cross-Modal Retrieval(SIGIR)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/2964284.2967206)
 
 ### Feature Mapping(Sample Constraint)(Label Constraint)
 
 #### 2022
 
-- **DJSAH: Discrete Joint Semantic Alignment Hashing for Cross-Modal Image-Text Search** [(PDF)](https://ieeexplore.ieee.org/abstract/document/9808188)
+- **DJSAH: Discrete Joint Semantic Alignment Hashing for Cross-Modal Image-Text Search(TCSVT)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/9808188)
 
 #### 2020
 
-- **FUH: Fast Unmediated Hashing for Cross-Modal Retrieval** [(PDF)](https://ieeexplore.ieee.org/abstract/document/9285286)
+- **FUH: Fast Unmediated Hashing for Cross-Modal Retrieval(TCSVT)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/9285286)
 
 #### 2016
 
-- **MDBE: Multimodal Discriminative Binary Embedding for Large-Scale Cross-Modal Retrieval** [(PDF)](https://ieeexplore.ieee.org/abstract/document/7515190) [[Code]](https://github.com/Wangdi-Xidian/MDBE)
+- **MDBE: Multimodal Discriminative Binary Embedding for Large-Scale Cross-Modal Retrieval(TIP)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/7515190) [[Code]](https://github.com/Wangdi-Xidian/MDBE)
 
 ### Feature Mapping(Sample Constraint)(Separate Hamming)
 
 #### 2017
 
-- **CSDH: Sequential Discrete Hashing for Scalable Cross-Modality Similarity Retrieval** [(PDF)](https://ieeexplore.ieee.org/abstract/document/7600368)
+- **CSDH: Sequential Discrete Hashing for Scalable Cross-Modality Similarity Retrieval(TIP)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/7600368)
 
 #### 2016
 
-- **DASH: Frustratingly Easy Cross-Modal Hashing** [(PDF)](https://dl.acm.org/doi/abs/10.1145/2964284.2967218)
+- **DASH: Frustratingly Easy Cross-Modal Hashing(MM)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/2964284.2967218)
 
 #### 2015
 
-- **QCH: Quantized Correlation Hashing for Fast Cross-Modal Search** [(PDF)](https://dl.acm.org/doi/abs/10.5555/2832747.2832799)
+- **QCH: Quantized Correlation Hashing for Fast Cross-Modal Search(IJCAI)** [(PDF)](https://dl.acm.org/doi/abs/10.5555/2832747.2832799)
 
 ### Feature Mapping(Sample Constraint)(Common Hamming)
 
 #### 2021
 
-- **ASCSH: Asymmetric Supervised Consistent and Speciﬁc Hashing for Cross-Modal Retrieval** [(PDF)](https://ieeexplore.ieee.org/abstract/document/9269445) [[Code]](https://github.com/minmengzju/ASCSH)
+- **ASCSH: Asymmetric Supervised Consistent and Speciﬁc Hashing for Cross-Modal Retrieval(TIP)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/9269445) [[Code]](https://github.com/minmengzju/ASCSH)
 
 #### 2019
 
-- **SRDMH: Supervised Robust Discrete Multimodal Hashing for Cross-Media Retrieval** [(PDF)](https://ieeexplore.ieee.org/abstract/document/8695043)
+- **SRDMH: Supervised Robust Discrete Multimodal Hashing for Cross-Media Retrieval(TMM)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/8695043)
 
 #### 2018
 
-- **FDCH: Fast Discrete Cross-modal Hashing With Regressing From Semantic Labels** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3240508.3240683)
+- **FDCH: Fast Discrete Cross-modal Hashing With Regressing From Semantic Labels(MM)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3240508.3240683)
 
 #### 2017
 
-- **SRSH: Semi-Relaxation Supervised Hashing for Cross-Modal Retrieval** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3123266.3123320) [[Code]](https://github.com/sduzpf/SRSH)
+- **SRSH: Semi-Relaxation Supervised Hashing for Cross-Modal Retrieval(MM)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3123266.3123320) [[Code]](https://github.com/sduzpf/SRSH)
 
-- **RoPH: Cross-Modal Hashing via Rank-Order Preserving** [(PDF)](https://ieeexplore.ieee.org/abstract/document/7737053) [[Code]](https://github.com/kding1225/RoPH)
+- **RoPH: Cross-Modal Hashing via Rank-Order Preserving(TMM)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/7737053) [[Code]](https://github.com/kding1225/RoPH)
 
 #### 2016
 
-- **SRDMH: Supervised Robust Discrete Multimodal Hashing for Cross-Media Retrieval** [(PDF)](https://dl.acm.org/doi/abs/10.1145/2983323.2983743)
+- **SRDMH: Supervised Robust Discrete Multimodal Hashing for Cross-Media Retrieval(CIKM)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/2983323.2983743)
 
 ### Feature Mapping(Relation Constraint)
 
 #### 2017
 
-- **LSRH: Linear Subspace Ranking Hashing for Cross-Modal Retrieval** [(PDF)](https://ieeexplore.ieee.org/abstract/document/7571151)
+- **LSRH: Linear Subspace Ranking Hashing for Cross-Modal Retrieval(TPAMI)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/7571151)
 
 #### 2014
 
-- **SCM: Large-Scale Supervised Multimodal Hashing with Semantic Correlation Maximization** [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/8995)
+- **SCM: Large-Scale Supervised Multimodal Hashing with Semantic Correlation Maximization(AAAI)** [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/8995)
 
-- **HTH: Scalable Heterogeneous Translated Hashing** [(PDF)](https://dl.acm.org/doi/abs/10.1145/2623330.2623688)
+- **HTH: Scalable Heterogeneous Translated Hashing(KDD)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/2623330.2623688)
 
 #### 2013
 
-- **PLMH: Parametric Local Multimodal Hashing for Cross-View Similarity Search** [(PDF)](https://repository.hkust.edu.hk/ir/Record/1783.1-60904)
+- **PLMH: Parametric Local Multimodal Hashing for Cross-View Similarity Search(IJCAI)** [(PDF)](https://repository.hkust.edu.hk/ir/Record/1783.1-60904)
 
-- **RaHH: Comparing Apples to Oranges: A Scalable Solution with Heterogeneous Hashing** [(PDF)](https://dl.acm.org/doi/abs/10.1145/2487575.2487668) [[Code]](https://github.com/boliu68/RaHH)
+- **RaHH: Comparing Apples to Oranges: A Scalable Solution with Heterogeneous Hashing(KDD)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/2487575.2487668) [[Code]](https://github.com/boliu68/RaHH)
 
 #### 2012
 
-- **CRH: Co-Regularized Hashing for Multimodal Data** [(PDF)](https://proceedings.neurips.cc/paper_files/paper/2012/hash/5c04925674920eb58467fb52ce4ef728-Abstract.html)
+- **CRH: Co-Regularized Hashing for Multimodal Data(CRH)** [(PDF)](https://proceedings.neurips.cc/paper_files/paper/2012/hash/5c04925674920eb58467fb52ce4ef728-Abstract.html)
 
 ### Other Shallow
 
 #### 2019
 
-- **DLFH: Discrete Latent Factor Model for Cross-Modal Hashing** [(PDF)](https://ieeexplore.ieee.org/abstract/document/8636536) [[Code]](https://github.com/jiangqy/DLFH-TIP2019)
+- **DLFH: Discrete Latent Factor Model for Cross-Modal Hashing(TIP)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/8636536) [[Code]](https://github.com/jiangqy/DLFH-TIP2019)
 
 #### 2018
 
-- **SDMCH: Supervised Discrete Manifold-Embedded Cross-Modal Hashing** [(PDF)](https://dl.acm.org/doi/abs/10.5555/3304889.3305010)
+- **SDMCH: Supervised Discrete Manifold-Embedded Cross-Modal Hashing(IJCAI)** [(PDF)](https://dl.acm.org/doi/abs/10.5555/3304889.3305010)
 
 #### 2015
 
-- **SePH: Semantics-Preserving Hashing for Cross-View Retrieval** [(PDF)](https://openaccess.thecvf.com/content_cvpr_2015/html/Lin_Semantics-Preserving_Hashing_for_2015_CVPR_paper.html)
+- **SePH: Semantics-Preserving Hashing for Cross-View Retrieval(CVPR)** [(PDF)](https://openaccess.thecvf.com/content_cvpr_2015/html/Lin_Semantics-Preserving_Hashing_for_2015_CVPR_paper.html)
 
 #### 2012
 
-- **MLBE: A Probabilistic Model for Multimodal Hash Function Learning** [(PDF)](https://dl.acm.org/doi/abs/10.1145/2339530.2339678)
+- **MLBE: A Probabilistic Model for Multimodal Hash Function Learning(KDD)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/2339530.2339678)
 
 #### 2010
 
-- **CMSSH: Data Fusion through Cross-modality Metric Learning using Similarity-Sensitive Hashing** [(PDF)](https://ieeexplore.ieee.org/abstract/document/5539928)
+- **CMSSH: Data Fusion through Cross-modality Metric Learning using Similarity-Sensitive Hashing(CVPR)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/5539928)
 
 ### Naive Network(Distance Constraint)
 
 #### 2019
 
-- **MCITR: Cross-modal Image-Text Retrieval with Multitask Learning** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3357384.3358104)
+- **MCITR: Cross-modal Image-Text Retrieval with Multitask Learning(CIKM)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3357384.3358104)
 
 #### 2016
 
-- **CAH: Correlation Autoencoder Hashing for Supervised Cross-Modal Search** [(PDF)](https://dl.acm.org/doi/abs/10.1145/2911996.2912000)
+- **CAH: Correlation Autoencoder Hashing for Supervised Cross-Modal Search(ICMR)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/2911996.2912000)
 
 #### 2014
 
-- **CMNNH: Cross-Media Hashing with Neural Networks** [(PDF)](https://dl.acm.org/doi/abs/10.1145/2647868.2655059)
+- **CMNNH: Cross-Media Hashing with Neural Networks(MM)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/2647868.2655059)
 
-- **MMNN: Multimodal Similarity-Preserving Hashing** [(PDF)](https://ieeexplore.ieee.org/abstract/document/6654144)
+- **MMNN: Multimodal Similarity-Preserving Hashing(TPAMI)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/6654144)
 
 ### Naive Network(Similarity Constraint)
 
 #### 2022
 
-- **Bi-CMR: Bidirectional Reinforcement Guided Hashing for Effective Cross-Modal Retrieval** [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/21268) [[Code]](https://github.com/lty4869/Bi-CMR)
+- **Bi-CMR: Bidirectional Reinforcement Guided Hashing for Effective Cross-Modal Retrieval(AAAI)** [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/21268) [[Code]](https://github.com/lty4869/Bi-CMR)
 
-- **Bi-NCMH: Deep Normalized Cross-Modal Hashing with Bi-Direction Relation Reasoning** [(PDF)](https://openaccess.thecvf.com/content/CVPR2022W/ODRUM/html/Sun_Deep_Normalized_Cross-Modal_Hashing_With_Bi-Direction_Relation_Reasoning_CVPRW_2022_paper.html)
+- **Bi-NCMH: Deep Normalized Cross-Modal Hashing with Bi-Direction Relation Reasoning(CVPR)** [(PDF)](https://openaccess.thecvf.com/content/CVPR2022W/ODRUM/html/Sun_Deep_Normalized_Cross-Modal_Hashing_With_Bi-Direction_Relation_Reasoning_CVPRW_2022_paper.html)
 
 #### 2021
 
-- **OTCMR: Bridging Heterogeneity Gap with Optimal Transport for Cross-modal Retrieval** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3459637.3482158)
+- **OTCMR: Bridging Heterogeneity Gap with Optimal Transport for Cross-modal Retrieval(CIKM)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3459637.3482158)
 
-- **DUCMH: Deep Uniﬁed Cross-Modality Hashing by Pairwise Data Alignment** [(PDF)](https://cs.nju.edu.cn/_upload/tpl/01/0c/268/template268/pdf/IJCAI-2021-Wang.pdf)
+- **DUCMH: Deep Uniﬁed Cross-Modality Hashing by Pairwise Data Alignment(IJCAI)** [(PDF)](https://cs.nju.edu.cn/_upload/tpl/01/0c/268/template268/pdf/IJCAI-2021-Wang.pdf)
 
 #### 2020
 
-- **NRDH: Nonlinear Robust Discrete Hashing for Cross-Modal Retrieval** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3397271.3401152)
+- **NRDH: Nonlinear Robust Discrete Hashing for Cross-Modal Retrieval(SIGIR)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3397271.3401152)
 
-- **DCHUC: Deep Cross-Modal Hashing with Hashing Functions and Uniﬁed Hash Codes Jointly Learning** [(PDF)](https://ieeexplore.ieee.org/abstract/document/9069300) [[Code]](https://github.com/rongchengtu1/DCHUC)
+- **DCHUC: Deep Cross-Modal Hashing with Hashing Functions and Uniﬁed Hash Codes Jointly Learning(TKDE)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/9069300) [[Code]](https://github.com/rongchengtu1/DCHUC)
 
 #### 2017
 
-- **CHN: Correlation Hashing Network for Efﬁcient Cross-Modal Retrieval** [(PDF)](https://arxiv.org/abs/1602.06697)
+- **CHN: Correlation Hashing Network for Efﬁcient Cross-Modal Retrieval(BMVC)** [(PDF)](https://arxiv.org/abs/1602.06697)
 
 #### 2016
 
-- **DVSH: Deep Visual-Semantic Hashing for Cross-Modal Retrieval** [(PDF)](https://dl.acm.org/doi/abs/10.1145/2939672.2939812)
+- **DVSH: Deep Visual-Semantic Hashing for Cross-Modal Retrieval(KDD)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/2939672.2939812)
 
 ### Naive Network(Negative Log Likelihood)
 
 #### 2022
 
-- **MSSPQ: Multiple Semantic Structure-Preserving Quantization for Cross-Modal Retrieval** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3512527.3531417)
+- **MSSPQ: Multiple Semantic Structure-Preserving Quantization for Cross-Modal Retrieval(ICMR)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3512527.3531417)
 
 #### 2021
 
-- **DMFH: Deep Multiscale Fusion Hashing for Cross-Modal Retrieval** [(PDF)](https://ieeexplore.ieee.org/abstract/document/9001018)
+- **DMFH: Deep Multiscale Fusion Hashing for Cross-Modal Retrieval(TCSVT)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/9001018)
 
-- **TEACH: Attention-Aware Deep Cross-Modal Hashing** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3460426.3463625)
+- **TEACH: Attention-Aware Deep Cross-Modal Hashing(ICMR)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3460426.3463625)
 
 #### 2020
 
-- **MDCH: Mask Cross-modal Hashing Networks** [(PDF)](https://ieeexplore.ieee.org/abstract/document/9055057)
+- **MDCH: Mask Cross-modal Hashing Networks(TMM)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/9055057)
 
 #### 2019
 
-- **EGDH: Equally-Guided Discriminative Hashing for Cross-modal Retrieval** [(PDF)](https://dl.acm.org/doi/abs/10.5555/3367471.3367706)
+- **EGDH: Equally-Guided Discriminative Hashing for Cross-modal Retrieval(IJCAI)** [(PDF)](https://dl.acm.org/doi/abs/10.5555/3367471.3367706)
 
 #### 2018
 
-- **DDCMH: Dual Deep Neural Networks Cross-Modal Hashing** [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/11249)
+- **DDCMH: Dual Deep Neural Networks Cross-Modal Hashing(AAAI)** [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/11249)
 
-- **CMHH: Cross-Modal Hamming Hashing** [(PDF)](https://openaccess.thecvf.com/content_ECCV_2018/html/Yue_Cao_Cross-Modal_Hamming_Hashing_ECCV_2018_paper.html)
+- **CMHH: Cross-Modal Hamming Hashing(ECCV)** [(PDF)](https://openaccess.thecvf.com/content_ECCV_2018/html/Yue_Cao_Cross-Modal_Hamming_Hashing_ECCV_2018_paper.html)
 
 #### 2017
 
-- **PRDH: Pairwise Relationship Guided Deep Hashing for Cross-Modal Retrieval** [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/10719)
+- **PRDH: Pairwise Relationship Guided Deep Hashing for Cross-Modal Retrieval(AAAI)** [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/10719)
 
-- **DCMH: Deep Cross-Modal Hashing** [(PDF)](https://openaccess.thecvf.com/content_cvpr_2017/html/Jiang_Deep_Cross-Modal_Hashing_CVPR_2017_paper.html) [[Code]](https://github.com/WendellGul/DCMH)
+- **DCMH: Deep Cross-Modal Hashing(CVPR)** [(PDF)](https://openaccess.thecvf.com/content_cvpr_2017/html/Jiang_Deep_Cross-Modal_Hashing_CVPR_2017_paper.html) [[Code]](https://github.com/WendellGul/DCMH)
 
 ### Naive Network(Triplet Constraint)
 
 #### 2019
 
-- **RDCMH: Multiple Semantic Structure-Preserving Quantization for Cross-Modal Retrieval** [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/4351)
+- **RDCMH: Multiple Semantic Structure-Preserving Quantization for Cross-Modal Retrieval(AAAI)** [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/4351)
 
 #### 2018
 
-- **MCSCH: Multi-Scale Correlation for Sequential Cross-modal Hashing Learning** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3240508.3240560)
+- **MCSCH: Multi-Scale Correlation for Sequential Cross-modal Hashing Learning(MM)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3240508.3240560)
 
-- **TDH: Triplet-Based Deep Hashing Network for Cross-Modal Retrieval** [(PDF)](https://ieeexplore.ieee.org/abstract/document/8331146)
+- **TDH: Triplet-Based Deep Hashing Network for Cross-Modal Retrieval(TIP)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/8331146)
 
 ### GAN
 
 #### 2022
 
-- **SCAHN: Semantic Structure Enhanced Contrastive Adversarial Hash Network for Cross-media Representation Learning** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3503161.3548391) [[Code]](https://github.com/YI1219/SCAHN-MindSpore)
+- **SCAHN: Semantic Structure Enhanced Contrastive Adversarial Hash Network for Cross-media Representation Learning(MM)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3503161.3548391) [[Code]](https://github.com/YI1219/SCAHN-MindSpore)
 
 #### 2021
 
-- **TGCR: Multiple Semantic Structure-Preserving Quantization for Cross-Modal Retrieval** [(PDF)](https://ieeexplore.ieee.org/abstract/document/9257382)
+- **TGCR: Multiple Semantic Structure-Preserving Quantization for Cross-Modal Retrieval(TCSVT)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/9257382)
 
 #### 2020
 
-- **CPAH: Multi-Task Consistency-Preserving Adversarial Hashing for Cross-Modal Retrieval** [(PDF)](https://ieeexplore.ieee.org/abstract/document/8954946) [[Code]](https://github.com/comrados/cpah)
+- **CPAH: Multi-Task Consistency-Preserving Adversarial Hashing for Cross-Modal Retrieval(TIP)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/8954946) [[Code]](https://github.com/comrados/cpah)
 
-- **MLCAH: Multi-Level Correlation Adversarial Hashing for Cross-Modal Retrieval** [(PDF)](https://ieeexplore.ieee.org/abstract/document/8970562)
+- **MLCAH: Multi-Level Correlation Adversarial Hashing for Cross-Modal Retrieval(TMM)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/8970562)
 
-- **DADH: Deep Adversarial Discrete Hashing for Cross-Modal Retrieval** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3372278.3390711) [[Code]](https://github.com/Zjut-MultimediaPlus/DADH)
+- **DADH: Deep Adversarial Discrete Hashing for Cross-Modal Retrieval(ICMR)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3372278.3390711) [[Code]](https://github.com/Zjut-MultimediaPlus/DADH)
 
 #### 2019
 
-- **AGAH: Adversary Guided Asymmetric Hashing for Cross-Modal Retrieval** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3323873.3325045) [[Code]](https://github.com/WendellGul/AGAH)
+- **AGAH: Adversary Guided Asymmetric Hashing for Cross-Modal Retrieval(ICMR)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3323873.3325045) [[Code]](https://github.com/WendellGul/AGAH)
 
 #### 2018
 
-- **SSAH: Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval** [(PDF)](https://openaccess.thecvf.com/content_cvpr_2018/html/Li_Self-Supervised_Adversarial_Hashing_CVPR_2018_paper.html) [[Code]](https://github.com/lelan-li/SSAH)
+- **SSAH: Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval(CVPR)** [(PDF)](https://openaccess.thecvf.com/content_cvpr_2018/html/Li_Self-Supervised_Adversarial_Hashing_CVPR_2018_paper.html) [[Code]](https://github.com/lelan-li/SSAH)
 
 ### Graph Model
 
 #### 2022
 
-- **HMAH: Multi-Task Consistency-Preserving Adversarial Hashing for Cross-Modal Retrieval** [(PDF)](https://ieeexplore.ieee.org/abstract/document/9782694)
+- **HMAH: Multi-Task Consistency-Preserving Adversarial Hashing for Cross-Modal Retrieval(TMM)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/9782694)
 
-- **SCAHN: Semantic Structure Enhanced Contrastive Adversarial Hash Network for Cross-media Representation Learning** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3503161.3548391) [[Code]](https://github.com/lelan-li/SSAH)
+- **SCAHN: Semantic Structure Enhanced Contrastive Adversarial Hash Network for Cross-media Representation Learning(MM)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3503161.3548391) [[Code]](https://github.com/lelan-li/SSAH)
 
-#### 2020
+#### 2021
 
-- **LGCNH: Local Graph Convolutional Networks for Cross-Modal Hashing** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3474085.3475346) [[Code]](https://github.com/chenyd7/LGCNH)
+- **LGCNH: Local Graph Convolutional Networks for Cross-Modal Hashing(MM)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3474085.3475346) [[Code]](https://github.com/chenyd7/LGCNH)
 
-#### 2020
+#### 2019
 
-- **GCH: Graph Convolutional Network Hashing for Cross-Modal Retrieval** [(PDF)](https://dl.acm.org/doi/abs/10.5555/3367032.3367172) [[Code]](https://github.com/DeXie0808/GCH)
+- **GCH: Graph Convolutional Network Hashing for Cross-Modal Retrieval(IJCAI)** [(PDF)](https://dl.acm.org/doi/abs/10.5555/3367032.3367172) [[Code]](https://github.com/DeXie0808/GCH)
 
 ### Transformer
 
 #### 2022
 
-- **DCHMT: Differentiable Cross-modal Hashing via Multimodal Transformers** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3503161.3548187) [[Code]](https://github.com/kalenforn/DCHMT)
+- **DCHMT: Differentiable Cross-modal Hashing via Multimodal Transformers(CIKM)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3503161.3548187) [[Code]](https://github.com/kalenforn/DCHMT)
 
-- **UniHash: Contrastive Label Correlation Enhanced Unified Hashing Encoder for Cross-modal Retrieval** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3511808.3557265) [[Code]](https://github.com/idealwhite/UniHash)
+- **UniHash: Contrastive Label Correlation Enhanced Unified Hashing Encoder for Cross-modal Retrieval(MM)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3511808.3557265) [[Code]](https://github.com/idealwhite/UniHash)
 
 ### Memory Network
 
 #### 2021
 
-- **CMPD: Using Cross Memory Network With Pair Discrimination for Image-Text Retrieval** [(PDF)](https://ieeexplore.ieee.org/abstract/document/9169915)
+- **CMPD: Using Cross Memory Network With Pair Discrimination for Image-Text Retrieval(TCSVT)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/9169915)
 
 #### 2019
 
-- **CMMN: Deep Memory Network for Cross-Modal Retrieval** [(PDF)](https://ieeexplore.ieee.org/abstract/document/8506385)
+- **CMMN: Deep Memory Network for Cross-Modal Retrieval(TMM)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/8506385)
 
 ### Quantization
 
 #### 2022
 
-- **ACQH: Asymmetric Correlation Quantization Hashing for Cross-Modal Retrieval** [(PDF)](https://ieeexplore.ieee.org/abstract/document/9517000)
+- **ACQH: Asymmetric Correlation Quantization Hashing for Cross-Modal Retrieval(TMM)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/9517000)
 
 #### 2017
 
-- **CDQ: Collective Deep Quantization for Efﬁcient Cross-Modal Retrieval** [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/11218) [[Code]](https://github.com/caoyue10/aaai17-cdq)
+- **CDQ: Collective Deep Quantization for Efﬁcient Cross-Modal Retrieval(AAAI)** [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/11218) [[Code]](https://github.com/caoyue10/aaai17-cdq)
 
 ## Unsupervised-cross-modal-real-valued
 
@@ -784,169 +784,169 @@ The currently supported algorithms include:
 
 #### 2022
 
-- **MVMLCCA: Multi-view Multi-label Canonical Correlation Analysis for Cross-modal Matching and Retrieval**  [[PDF]](https://openaccess.thecvf.com/content/CVPR2022W/MULA/html/Sanghavi_Multi-View_Multi-Label_Canonical_Correlation_Analysis_for_Cross-Modal_Matching_and_Retrieval_CVPRW_2022_paper.html) [[Code]](https://github.com/Rushil231100/MVMLCCA)
+- **MVMLCCA: Multi-view Multi-label Canonical Correlation Analysis for Cross-modal Matching and Retrieval(CVPRW)**  [[PDF]](https://openaccess.thecvf.com/content/CVPR2022W/MULA/html/Sanghavi_Multi-View_Multi-Label_Canonical_Correlation_Analysis_for_Cross-Modal_Matching_and_Retrieval_CVPRW_2022_paper.html) [[Code]](https://github.com/Rushil231100/MVMLCCA)
 
 #### 2015
 
-- **ml-CCA: Multi-Label Cross-modal Retrieval**  [[PDF]](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Ranjan_Multi-Label_Cross-Modal_Retrieval_ICCV_2015_paper.html) [[Code]](https://github.com/Viresh-R/ml-CCA)
+- **ml-CCA: Multi-Label Cross-modal Retrieval(ICCV)**  [[PDF]](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Ranjan_Multi-Label_Cross-Modal_Retrieval_ICCV_2015_paper.html) [[Code]](https://github.com/Viresh-R/ml-CCA)
 
 #### 2014
 
-- **cluster-CCA: Cluster Canonical Correlation Analysis**  [[PDF]](https://proceedings.mlr.press/v33/rasiwasia14.html)
+- **cluster-CCA: Cluster Canonical Correlation Analysis(ICAIS)**  [[PDF]](https://proceedings.mlr.press/v33/rasiwasia14.html)
 
 #### 2012
 
-- **GMA: Generalized Multiview Analysis: A Discriminative Latent Space**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/6247923) [[Code]](https://github.com/huyt16/Twitter100k/tree/master/code/GMA-CVPR2012)
+- **GMA: Generalized Multiview Analysis: A Discriminative Latent Space(CVPR)**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/6247923) [[Code]](https://github.com/huyt16/Twitter100k/tree/master/code/GMA-CVPR2012)
 
 ### Dictionary Learning
 
 #### 2018
-- **JDSLC: Joint Dictionary Learning and Semantic Constrained Latent Subspace Projection for Cross-Modal Retrieval**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3269206.3269296)
+- **JDSLC: Joint Dictionary Learning and Semantic Constrained Latent Subspace Projection for Cross-Modal Retrieval(CIKM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3269206.3269296)
 
 #### 2016
-- **DDL: Discriminative Dictionary Learning With Common Label Alignment for Cross-Modal Retrieval**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/7353179)
+- **DDL: Discriminative Dictionary Learning With Common Label Alignment for Cross-Modal Retrieval(TMM)**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/7353179)
 
 #### 2014
 
-- **CMSDL: Cross-Modality Submodular Dictionary Learning for Information Retrieval**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/2661829.2661926)
+- **CMSDL: Cross-Modality Submodular Dictionary Learning for Information Retrieval(CIKM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/2661829.2661926)
 
 #### 2013
 
-- **SliM2: Supervised Coupled Dictionary Learning with Group Structures for Multi-Modal Retrieval**  [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/8603)
+- **SliM2: Supervised Coupled Dictionary Learning with Group Structures for Multi-Modal Retrieval(AAAI)**  [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/8603)
 
 ### Feature Mapping
 
 #### 2017
 
-- **MDSSL: Cross-Modal Retrieval Using Multiordered Discriminative Structured Subspace Learning**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/7801820)
+- **MDSSL: Cross-Modal Retrieval Using Multiordered Discriminative Structured Subspace Learning(TMM)**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/7801820)
 
-- **JLSLR: Joint Latent Subspace Learning and Regression for Cross-Modal Retrieval**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3077136.3080678)
+- **JLSLR: Joint Latent Subspace Learning and Regression for Cross-Modal Retrieval(SIGIR)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3077136.3080678)
 
 #### 2016
 
-- **JFSSL: Joint Feature Selection and Subspace Learning for Cross-Modal Retrieval**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/7346492) [[Code]](https://github.com/2012013382/JFSSL-Cross-Modal-Retrieval)
+- **JFSSL: Joint Feature Selection and Subspace Learning for Cross-Modal Retrieval(TPAIMI)**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/7346492) [[Code]](https://github.com/2012013382/JFSSL-Cross-Modal-Retrieval)
 
-- **MDCR: Modality-Dependent Cross-Media Retrieval**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/2775109)
+- **MDCR: Modality-Dependent Cross-Media Retrieval(TIST)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/2775109)
 
-- **CRLC: Cross-modal Retrieval with Label Completion**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/2964284.2967231)
+- **CRLC: Cross-modal Retrieval with Label Completion(MM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/2964284.2967231)
 
 #### 2013
 
-- **JGRHML: Heterogeneous Metric Learning with Joint Graph Regularization for Cross-Media Retrieval**  [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/8464) [[Code]](https://github.com/PKU-ICST-MIPL/JGRHML_AAAI2013)
+- **JGRHML: Heterogeneous Metric Learning with Joint Graph Regularization for Cross-Media Retrieval(AAAI)**  [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/8464) [[Code]](https://github.com/PKU-ICST-MIPL/JGRHML_AAAI2013)
 
-- **LCFS: Learning Coupled Feature Spaces for Cross-modal Matching**  [[PDF]](https://openaccess.thecvf.com/content_iccv_2013/html/Wang_Learning_Coupled_Feature_2013_ICCV_paper.html)
+- **LCFS: Learning Coupled Feature Spaces for Cross-modal Matching(ICCV)**  [[PDF]](https://openaccess.thecvf.com/content_iccv_2013/html/Wang_Learning_Coupled_Feature_2013_ICCV_paper.html)
 
 #### 2011
 
-- **Multi-NPP: Learning Multi-View Neighborhood Preserving Projections**  [[PDF]](https://icml.cc/2011/papers/304_icmlpaper.pdf)
+- **Multi-NPP: Learning Multi-View Neighborhood Preserving Projections(ICML)**  [[PDF]](https://icml.cc/2011/papers/304_icmlpaper.pdf)
 
 ### Topic Model
 
 #### 2014
 
-- **M3R: Multi-modal Mutual Topic Reinforce Modeling for Cross-media Retrieval**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/2647868.2654901)
+- **M3R: Multi-modal Mutual Topic Reinforce Modeling for Cross-media Retrieval(MM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/2647868.2654901)
 
-- **NPBUS: Nonparametric Bayesian Upstream Supervised Multi-Modal Topic Models**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/2556195.2556238)
+- **NPBUS: Nonparametric Bayesian Upstream Supervised Multi-Modal Topic Models(WSDM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/2556195.2556238)
 
 ### Other Shallow
 
 #### 2019
 
-- **CMOS: Online Asymmetric Metric Learning With Multi-Layer Similarity Aggregation for Cross-Modal Retrieval**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/8680035)
+- **CMOS: Online Asymmetric Metric Learning With Multi-Layer Similarity Aggregation for Cross-Modal Retrieval(TIP)**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/8680035)
 
 #### 2017
 
-- **CMOS: Online Asymmetric Similarity Learning for Cross-Modal Retrieval**  [[PDF]](https://openaccess.thecvf.com/content_cvpr_2017/html/Wu_Online_Asymmetric_Similarity_CVPR_2017_paper.html)
+- **CMOS: Online Asymmetric Similarity Learning for Cross-Modal Retrieval(CVPR)**  [[PDF]](https://openaccess.thecvf.com/content_cvpr_2017/html/Wu_Online_Asymmetric_Similarity_CVPR_2017_paper.html)
 
 #### 2016
 
-- **PL-ranking: A Novel Ranking Method for Cross-Modal Retrieval**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/2964284.2964336)
+- **PL-ranking: A Novel Ranking Method for Cross-Modal Retrieval(MM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/2964284.2964336)
 
-- **RL-PLS: Cross-modal Retrieval by Real Label Partial Least Squares**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/2964284.2967216)
+- **RL-PLS: Cross-modal Retrieval by Real Label Partial Least Squares(MM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/2964284.2967216)
 
 #### 2013
 
-- **PFAR: Parallel Field Alignment for Cross Media Retrieval**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/2502081.2502087)
+- **PFAR: Parallel Field Alignment for Cross Media Retrieval(MM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/2502081.2502087)
 
 ### Naive Network
 
 #### 2022
 
-- **C3CMR: Cross-Modality Cross-Instance Contrastive Learning for Cross-Media Retrieval**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3503161.3548263)
+- **C3CMR: Cross-Modality Cross-Instance Contrastive Learning for Cross-Media Retrieval(MM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3503161.3548263)
 
 #### 2020
 
-- **ED-Net: Event-Driven Network for Cross-Modal Retrieval**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3340531.3412081)
+- **ED-Net: Event-Driven Network for Cross-Modal Retrieval(CIKM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3340531.3412081)
 
 #### 2019
 
-- **DSCMR: Deep Supervised Cross-modal Retrieval**  [[PDF]](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhen_Deep_Supervised_Cross-Modal_Retrieval_CVPR_2019_paper.html) [[Code]](https://github.com/penghu-cs/DSCMR)
+- **DSCMR: Deep Supervised Cross-modal Retrieval(CVPR)**  [[PDF]](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhen_Deep_Supervised_Cross-Modal_Retrieval_CVPR_2019_paper.html) [[Code]](https://github.com/penghu-cs/DSCMR)
 
-- **SAM: Cross-Modal Subspace Learning with Scheduled Adaptive Margin Constraints**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3343031.3351030)
+- **SAM: Cross-Modal Subspace Learning with Scheduled Adaptive Margin Constraints(MM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3343031.3351030)
 
 #### 2017
 
-- **deep-SM: Cross-Modal Retrieval With CNN Visual Features: A New Baseline**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/7428926) [[Code]](https://github.com/zh-plus/CMR-CNN-New-Baseline)
+- **deep-SM: Cross-Modal Retrieval With CNN Visual Features: A New Baseline(TCYB)**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/7428926) [[Code]](https://github.com/zh-plus/CMR-CNN-New-Baseline)
 
-- **CCL: Cross-modal Correlation Learning With Multigrained Fusion by Hierarchical Network**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/8013822)
+- **CCL: Cross-modal Correlation Learning With Multigrained Fusion by Hierarchical Network(TMM)**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/8013822)
 
-- **MSFN: Cross-media Retrieval by Learning Rich Semantic Embeddings of Multimedia**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3123266.3123369)
+- **MSFN: Cross-media Retrieval by Learning Rich Semantic Embeddings of Multimedia(MM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3123266.3123369)
 
-- **MNiL: Multi-Networks Joint Learning for Large-Scale Cross-Modal Retrieval**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3123266.3123317) [[Code]](https://github.com/liangzhang1407/Multi-Networks-Joint-Learning-for-Large-Scale-Cross-Modal-Retrieval)
+- **MNiL: Multi-Networks Joint Learning for Large-Scale Cross-Modal Retrieval(MM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3123266.3123317) [[Code]](https://github.com/liangzhang1407/Multi-Networks-Joint-Learning-for-Large-Scale-Cross-Modal-Retrieval)
 
 #### 2016
 
-- **MDNN: Effective deep learning-based multi-modal retrieval**  [[PDF]](https://link.springer.com/article/10.1007/s00778-015-0391-4)
+- **MDNN: Effective deep learning-based multi-modal retrieval(VLDB)**  [[PDF]](https://link.springer.com/article/10.1007/s00778-015-0391-4)
 
 #### 2015
 
-- **RE-DNN: Deep Semantic Mapping for Cross-Modal Retrieval**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/7372141)
+- **RE-DNN: Deep Semantic Mapping for Cross-Modal Retrieval(ICTAI)**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/7372141)
 
-- **C2MLR: Deep Compositional Cross-modal Learning to Rank via Local-Global Alignment**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/2733373.2806240)
+- **C2MLR: Deep Compositional Cross-modal Learning to Rank via Local-Global Alignment(MM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/2733373.2806240)
 
 ### GAN
 
 #### 2022
 
-- **JFSE: Joint Feature Synthesis and Embedding: Adversarial Cross-Modal Retrieval Revisited**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/9296975) [[Code]](https://github.com/CFM-MSG/Code_JFSE)
+- **JFSE: Joint Feature Synthesis and Embedding: Adversarial Cross-Modal Retrieval Revisited(TPAMI)**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/9296975) [[Code]](https://github.com/CFM-MSG/Code_JFSE)
 
 #### 2021
 
-- **AACR: Augmented Adversarial Training for Cross-Modal Retrieval**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/9057710) [[Code]](https://github.com/yiling2018/aacr)
+- **AACR: Augmented Adversarial Training for Cross-Modal Retrieval(TMM)**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/9057710) [[Code]](https://github.com/yiling2018/aacr)
 
 #### 2018
 
-- **CM-GANs: Cross-modal Generative Adversarial Networks for Common Representation Learning**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3284750) [[Code]](https://github.com/PKU-ICST-MIPL/CM-GANS_TOMM2019)
+- **CM-GANs: Cross-modal Generative Adversarial Networks for Common Representation Learning(TMM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3284750) [[Code]](https://github.com/PKU-ICST-MIPL/CM-GANS_TOMM2019)
 
 #### 2017
 
-- **ACMR: Adversarial Cross-Modal Retrieval**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3123266.3123326) [[Code]](https://github.com/cuishuhao/ACMR)
+- **ACMR: Adversarial Cross-Modal Retrieval(MM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3123266.3123326) [[Code]](https://github.com/cuishuhao/ACMR)
 
 ### Graph Model
 
 #### 2022
 
-- **AGCN: Adversarial Graph Convolutional Network for Cross-Modal Retrieval**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/9411880)
+- **AGCN: Adversarial Graph Convolutional Network for Cross-Modal Retrieval(TCSVT)**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/9411880)
 
-- **ALGCN: Adaptive Label-Aware Graph Convolutional Networks for Cross-Modal Retrieval**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/9508809)
+- **ALGCN: Adaptive Label-Aware Graph Convolutional Networks for Cross-Modal Retrieval(TMM)**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/9508809)
 
-- **HGE: Cross-Modal Retrieval with Heterogeneous Graph Embedding**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3503161.3548195)
+- **HGE: Cross-Modal Retrieval with Heterogeneous Graph Embedding(MM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3503161.3548195)
 
 #### 2021
 
-- **GCR: Exploring Graph-Structured Semantics for Cross-Modal Retrieval**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3474085.3475567) [[Code]](https://github.com/neoscheung/GCR)
+- **GCR: Exploring Graph-Structured Semantics for Cross-Modal Retrieval(MM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3474085.3475567) [[Code]](https://github.com/neoscheung/GCR)
 
-- **DAGNN: Dual Adversarial Graph Neural Networks for Multi-label Cross-modal Retrieval**  [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/16345)
+- **DAGNN: Dual Adversarial Graph Neural Networks for Multi-label Cross-modal Retrieval(AAAI)**  [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/16345)
 
 #### 2018
 
-- **SSPE: Learning Semantic Structure-preserved Embeddings for Cross-modal Retrieval**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3240508.3240521)
+- **SSPE: Learning Semantic Structure-preserved Embeddings for Cross-modal Retrieval(MM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3240508.3240521)
 
 ### Transformer
 
 #### 2021
 
-- **RLCMR: Rethinking Label-Wise Cross-Modal Retrieval from A Semantic Sharing Perspective**  [[PDF]](https://www.ijcai.org/proceedings/2021/0454.pdf)
+- **RLCMR: Rethinking Label-Wise Cross-Modal Retrieval from A Semantic Sharing Perspective(IJCAI)**  [[PDF]](https://www.ijcai.org/proceedings/2021/0454.pdf)
 
 # Usage
 
