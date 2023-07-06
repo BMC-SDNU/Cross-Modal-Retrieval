@@ -19,10 +19,10 @@
         - [Feature Mapping-Sample-Constraint-Common-Hamming](#Feature-Mapping-Sample-Constraint-Common-Hamming)
         - [Feature Mapping-Relation-Constraint](#Feature-Mapping-Relation-Constraint)
         - [Other Shallow](#Other-Shallow)
-        - [Naive Network(Distance Constraint)](#Naive-Network(Distance-Constraint))
-        - [Naive Network(Similarity Constraint)](#Naive-Network(Similarity-Constrai)nt)
-        - [Naive Network(Negative Log Likelihood)](#Naive-Network(Negative-Log-Likel)ihood)
-        - [Naive Network(Triplet Constraint)](#Naive-Network(Triplet-Constraint))
+        - [Naive Network-Distance-Constraint)](#Naive-Network-Distance-Constraint)
+        - [Naive Network-Similarity-Constraint)](#Naive-Network-Similarity-Constraint)
+        - [Naive Network-Negative-Log-Likelihood)](#Naive-Network-Negative-Log-Likel-ihood)
+        - [Naive Network-Triplet-Constraint)](#Naive-Network-Triplet-Constraint)
         - [GAN](#gan)
         - [Graph Model](#graph-model)
         - [Transformer](#transformer)
@@ -346,7 +346,7 @@ The currently supported algorithms include:
 
 - **CMSSH: Data Fusion through Cross-modality Metric Learning using Similarity-Sensitive Hashing(CVPR)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/5539928)
 
-### Naive Network(Distance Constraint)
+### Naive Network-Distance-Constraint
 
 #### 2019
 
@@ -362,7 +362,7 @@ The currently supported algorithms include:
 
 - **MMNN: Multimodal Similarity-Preserving Hashing(TPAMI)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/6654144)
 
-### Naive Network(Similarity Constraint)
+### Naive Network-Similarity-Constraint
 
 #### 2022
 
@@ -390,7 +390,7 @@ The currently supported algorithms include:
 
 - **DVSH: Deep Visual-Semantic Hashing for Cross-Modal Retrieval(KDD)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/2939672.2939812)
 
-### Naive Network(Negative Log Likelihood)
+### Naive Network-Negative-Log-Likelihood
 
 #### 2022
 
@@ -422,7 +422,7 @@ The currently supported algorithms include:
 
 - **DCMH: Deep Cross-Modal Hashing(CVPR)** [(PDF)](https://openaccess.thecvf.com/content_cvpr_2017/html/Jiang_Deep_Cross-Modal_Hashing_CVPR_2017_paper.html) [[Code]](https://github.com/WendellGul/DCMH)
 
-### Naive Network(Triplet Constraint)
+### Naive Network-Triplet-Constraint
 
 #### 2019
 
