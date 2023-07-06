@@ -54,7 +54,13 @@
         - [2.5.3 Imbalance (Real-valued)](#253-imbalance-real-valued)
         - [2.5.4 Imbalance (Hashing)](#254-imbalance-hashing)
         - [2.5.5 Incremental](#255-incremental)
-
+        - [2.5.6 Noise](#256-Noise)
+        - [2.5.7 Cross-Domain](#257-Cross-Domain)
+        - [2.5.8 Zero-Shot](#258-Zero-Shot)
+        - [2.5.9 Few-Shot](#259-Few-Shot)
+        - [2.5.10 Online Learning](#2510-Online-Learning)
+        - [2.5.11 Hierarchical](#2511-Hierarchical)
+        - [2.5.12 Fine-grained](#2512-Fine-grained)
 - [3. Usage](#3-usage)
 
 # 1. Introduction
@@ -1077,6 +1083,94 @@ The currently supported algorithms include:
 
 - **TempXNet:Temporal Cross-Media Retrieval with Soft-Smoothing(MM)** [[PDF]](https://arxiv.org/abs/1810.04547)
 
+### 2.5.6 Noise
+
+#### 2022
+
+- **DECL: Deep Evidential Learning with Noisy Correspondence for Cross-modal Retrieval(MM)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3503161.3547922) [[Code]](https://github.com/QinYang79/DECL)
+
+- **ELRCMR: Early-Learning regularized Contrastive Learning for Cross-Modal Retrieval with Noisy Labels(MM)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3503161.3548066)
+
+- **CMMQ: Mutual Quantization for Cross-Modal Search with Noisy Labels(CVPR)** [(PDF)](https://openaccess.thecvf.com/content/CVPR2022/html/Yang_Mutual_Quantization_for_Cross-Modal_Search_With_Noisy_Labels_CVPR_2022_paper.html)
+
+#### 2021
+
+- **MRL: Learning Cross-Modal Retrieval with Noisy Labels(CVPR)** [(PDF)](https://openaccess.thecvf.com/content/CVPR2021/html/Hu_Learning_Cross-Modal_Retrieval_With_Noisy_Labels_CVPR_2021_paper.html) [[Code]](https://github.com/penghu-cs/MRL)
+
+#### 2018
+
+- **WSJE: Webly Supervised Joint Embedding for Cross-Modal Image-Text Retrieval(MM)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3240508.3240712)
+
+### 2.5.7 Cross-Domain
+
+#### 2021
+
+- **M2GUDA: Multi-Metrics Graph-Based Unsupervised Domain Adaptation for Cross-Modal Hashing(ICMR)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3460426.3463670)
+
+- **ACP: Adaptive Cross-Modal Prototypes for Cross-Domain Visual-Language Retrieval(CVPR)** [(PDF)](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Adaptive_Cross-Modal_Prototypes_for_Cross-Domain_Visual-Language_Retrieval_CVPR_2021_paper.html)
+
+#### 2020
+
+- **DASG: Unsupervised Cross-Media Retrieval Using Domain Adaptation With Scene Graph(TCSVT)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/8902166)
+
+### 2.5.8 Zero-Shot
+
+#### 2020
+
+- **LCALE: Learning Cross-Aligned Latent Embeddings for Zero-Shot Cross-Modal Retrieval(AAAI)** [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/6817)
+
+- **CFSA: Correlated Features Synthesis and Alignment for Zero-shot Cross-modal Retrieval(SIGIR)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3397271.3401149)
+
+#### 2019
+
+- **ZS-CMR: Learning Cross-Aligned Latent Embeddings for Zero-Shot Cross-Modal Retrieval(TIP)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/8743557)
+
+### 2.5.9 Few-Shot
+
+#### 2021
+
+- **SOCMH: Know Yourself and Know Others: Efficient Common Representation Learning for Few-shot Cross-modal Retrieval(ICMR)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3460426.3463632)
+
+### 2.5.10 Online Learning
+
+#### 2020
+
+- **CMOLRS: Online Fast Adaptive Low-Rank Similarity Learning for Cross-Modal Retrieval(TMM)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/8845601) [[Code]](https://github.com/yiling2018/cmolrs)
+
+- **LEMON: Label Embedding Online Hashing for Cross-Modal Retrieval(MM)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3394171.3413971) [[Code]](https://github.com/yxinwang/LEMON-MM2020)
+
+#### 2019
+
+- **FOMH: Flexible Online Multi-modal Hashing for Large-scale Multimedia Retrieval(MM)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3343031.3350999) [[Code]](https://github.com/lxuu306/FOMH)
+
+#### 2017
+
+- **OCMSR: Online Cross-Modal Scene Retrieval by Binary Representation and Semantic Graph(MM)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3123266.3123311)
+
+#### 2016
+
+- **OCMH: Online cross-modal hashing for web image retrieval(AAAI)** [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/9982)
+
+### 2.5.11 Hierarchical
+
+#### 2020
+
+- **SHDCH: Supervised Hierarchical Deep Hashing for Cross-Modal Retrieval(MM)** [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/9982) [[Code]](https://github.com/SDU-MIMA/SHDCH)
+
+#### 2019
+
+- **HiCHNet: Supervised Hierarchical Cross-Modal Hashing(SIGIR)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3331184.3331229) [[Code]](https://github.com/CCSun-cs/HichNet)
+
+### 2.5.12 Fine-grained
+
+#### 2022
+
+- **PCMDA: Paired Cross-Modal Data Augmentation for Fine-Grained Image-to-Text Retrieval(MM)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3503161.3547809)
+
+#### 2019
+
+- **FGCrossNet: A New Benchmark and Approach for Fine-grained Cross-media Retrieval(MM)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3343031.3350974) [[Code]](https://github.com/PKU-ICST-MIPL/FGCrossNet_ACMMM2019)
+
 # 3. Usage
 
 ## 3.1 Datasets
@@ -1129,3 +1223,38 @@ Dataset Link:
 
     Baidu Yun Link: https://pan.baidu.com/s/1_uIulkuxcIcubvl5u3zsOA?pwd=46c4
     Code: 46c4
+
+- **Online learning--SHDCH**
+
+Dataset Link:
+
+    Baidu Yun Link: https://pan.baidu.com/s/1-CsIJbvz3IFsmDgYk9BwYg?pwd=7hd8
+    Code: 7hd8
+    
+- **Noise--MRL**
+
+Dataset Link:
+
+    Baidu Yun Link: https://pan.baidu.com/s/1FIrB-gXJa9VHKzLRQZf30Q?pwd=g3qt
+    Code: g3qt
+
+- **Online learning--LEMON**
+
+Dataset Link:
+
+    Baidu Yun Link: https://pan.baidu.com/s/1s5SnnAXo5wK7cmRs3zNq4w?pwd=jxjo
+    Code: jxjo
+    
+- **Fine-grained--FGCrossNet**
+
+Dataset Link:
+
+    Baidu Yun Link: https://pan.baidu.com/s/1OYxCLmNKvPzwLIs5snTOlA?pwd=r80g
+    Code: r80g
+        
+- **Noise--DECL**
+
+Dataset Link:
+
+    Baidu Yun Link: https://pan.baidu.com/s/1FcxkwOuuiUXnIl1LAatDLA?pwd=nl2z
+    Code: nl2z
