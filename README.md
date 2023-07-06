@@ -14,10 +14,10 @@
     - [Supercised-cross-modal-hashing-retrieval](#supercised-cross-modal-hashing-retrieval)
         - [Matrix Factorization](#matrix-factorization)
         - [Dictionary Learning](#Dictionary-Learning)
-        - [Feature Mapping(Sample Constraint)(Label Constraint)](#Feature-Mapping(Sample-Constraint)(Label-Constraint))
-        - [Feature Mapping(Sample Constraint)(Separate Hamming)](#Feature-Mapping(Sample-Constraint)(Separate-Hamming))
-        - [Feature Mapping(Sample Constraint)(Common Hamming)](#Feature-Mapping(Sample-Constraint)(Common-Hamming))
-        - [Feature Mapping(Relation Constraint)](#Feature-Mapping(Relation-Constraint))
+        - [Feature Mapping-Sample-Constraint-Label-Constraint](#Feature-Mapping-Sample-Constraint-Label-Constraint)
+        - [Feature Mapping-Sample-Constraint-Separate-Hamming](#Feature-Mapping-Sample-Constraint-Separate-Hamming)
+        - [Feature Mapping-Sample-Constraint-Common-Hamming](#Feature-Mapping-Sample-Constraint-Common-Hamming)
+        - [Feature Mapping-Relation-Constraint](#Feature-Mapping-Relation-Constraint)
         - [Other Shallow](#Other-Shallow)
         - [Naive Network(Distance Constraint)](#Naive-Network(Distance-Constraint))
         - [Naive Network(Similarity Constraint)](#Naive-Network(Similarity-Constrai)nt)
@@ -250,7 +250,7 @@ The currently supported algorithms include:
 
 - **DLCMH: Dictionary Learning Based Hashing for Cross-Modal Retrieval(SIGIR)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/2964284.2967206)
 
-### Feature Mapping(Sample Constraint)(Label Constraint)
+### Feature Mapping-Sample-Constraint-Label-Constraint
 
 #### 2022
 
@@ -264,7 +264,7 @@ The currently supported algorithms include:
 
 - **MDBE: Multimodal Discriminative Binary Embedding for Large-Scale Cross-Modal Retrieval(TIP)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/7515190) [[Code]](https://github.com/Wangdi-Xidian/MDBE)
 
-### Feature Mapping(Sample Constraint)(Separate Hamming)
+### Feature Mapping-Sample-Constraint-Separate-Hamming
 
 #### 2017
 
@@ -278,7 +278,7 @@ The currently supported algorithms include:
 
 - **QCH: Quantized Correlation Hashing for Fast Cross-Modal Search(IJCAI)** [(PDF)](https://dl.acm.org/doi/abs/10.5555/2832747.2832799)
 
-### Feature Mapping(Sample Constraint)(Common Hamming)
+### Feature Mapping-Sample-Constraint-Common Hamming
 
 #### 2021
 
@@ -302,7 +302,7 @@ The currently supported algorithms include:
 
 - **SRDMH: Supervised Robust Discrete Multimodal Hashing for Cross-Media Retrieval(CIKM)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/2983323.2983743)
 
-### Feature Mapping(Relation Constraint)
+### Feature Mapping-Relation-Constraint
 
 #### 2017
 
