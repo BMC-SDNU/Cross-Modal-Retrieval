@@ -3,7 +3,7 @@
 - [1. Introduction](#1-introduction)
 - [2. Supported Methods](#2.-supported-methods)
     - [2.1 Unsupercised-cross-modal-hashing-retrieval](#2.1-unsupervised-cross-modal-hashing-retrieval)
-        - [2.1.1 Matrix Factorization](#2.1.1-matrix-factorization)
+        - [2.1.1 Matrix Factorization](#211-matrix-factorization)
         - [2.1.2 Graph Theory](#2.1.2-graph-theory)
         - [2.1.3 Other Shallow](#2.1.3-other-shallow)
         - [2.1.4 Quantization](#2.1.4-quantization)
