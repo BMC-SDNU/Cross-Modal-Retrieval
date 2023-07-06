@@ -1,64 +1,64 @@
 # Cross-modal Retrieval
 
-- [Introduction](#introduction)
-- [Supported Methods](#supported-methods)
-    - [Unsupercised-cross-modal-hashing-retrieval](#unsupervised-cross-modal-hashing-retrieval)
-        - [Matrix Factorization](#matrix-factorization)
-        - [Graph Theory](#graph-theory)
-        - [Other Shallow](#other-shallow)
-        - [Quantization](#quantization)
-        - [Naive Network](#naive-network)
-        - [GAN](#gan)
-        - [Graph Model](#graph-model)
-        - [Knowledge Distillation](#knowledge-distillation)
-    - [Supercised-cross-modal-hashing-retrieval](#supercised-cross-modal-hashing-retrieval)
-        - [Matrix Factorization](#matrix-factorization)
-        - [Dictionary Learning](#Dictionary-Learning)
-        - [Feature Mapping-Sample-Constraint-Label-Constraint](#Feature-Mapping-Sample-Constraint-Label-Constraint)
-        - [Feature Mapping-Sample-Constraint-Separate-Hamming](#Feature-Mapping-Sample-Constraint-Separate-Hamming)
-        - [Feature Mapping-Sample-Constraint-Common-Hamming](#Feature-Mapping-Sample-Constraint-Common-Hamming)
-        - [Feature Mapping-Relation-Constraint](#Feature-Mapping-Relation-Constraint)
-        - [Other Shallow](#Other-Shallow)
-        - [Naive Network-Distance-Constraint)](#Naive-Network-Distance-Constraint)
-        - [Naive Network-Similarity-Constraint)](#Naive-Network-Similarity-Constraint)
-        - [Naive Network-Negative-Log-Likelihood)](#Naive-Network-Negative-Log-Likel-ihood)
-        - [Naive Network-Triplet-Constraint)](#Naive-Network-Triplet-Constraint)
-        - [GAN](#gan)
-        - [Graph Model](#graph-model)
-        - [Transformer](#transformer)
-        - [Memory Network](#memory-Network)
-        - [Quantization](#quantization)
-    - [Unsupervised-cross-modal-real-valued](#unsupervised-cross-modal-real-valued)
-        - [CCA](#cca)
-        - [Topic Model](#topic-model)
-        - [Other Shallow](#other-shallow)
-        - [Neural Network](#neural-network)
-        - [Naive Network](#native-network)
-        - [Dot-product Attention](#dot-product-attention)
-        - [Graph Model](#graph-model)
-        - [Transformer](#transformer)
-        - [Cross-modal Generation](#cross-modal-generation)
-    - [Supervised-cross-modal-real-valued](#supervised-cross-modal-real-valued)
-        - [CCA](#cca)
-        - [Dictionary Learning](#dictionary-learning)
-        - [Feature Mapping](#feature-mapping)
-        - [Topic Model](#topic-model)
-        - [Other Shallow](#other-shallow)
-        - [Naive Network](#naive-network)
-        - [GAN](#gan)
-        - [Graph Model](#graph-model)
-        - [Transformer](#transformer)
-- [Usage](#usage)
+- [1. Introduction](#1.-introduction)
+- [2. Supported Methods](#2.-supported-methods)
+    - [2.1 Unsupercised-cross-modal-hashing-retrieval](#2.1-unsupervised-cross-modal-hashing-retrieval)
+        - [2.1.1 Matrix Factorization](#2.1.1-matrix-factorization)
+        - [2.1.2 Graph Theory](#2.1.2-graph-theory)
+        - [2.1.3 Other Shallow](#2.1.3-other-shallow)
+        - [2.1.4 Quantization](#2.1.4-quantization)
+        - [2.1.5 Naive Network](#2.1.5-naive-network)
+        - [2.1.6 GAN](#2.1.6-gan)
+        - [2.1.7 Graph Model](#2.1.7-graph-model)
+        - [2.1.8 Knowledge Distillation](#2.1.8-knowledge-distillation)
+    - [2.2 Supercised-cross-modal-hashing-retrieval](#2.2-supercised-cross-modal-hashing-retrieval)
+        - [2.2.1 Matrix Factorization](#2.2.1-matrix-factorization)
+        - [2.2.2 Dictionary Learning](#2.2.2-Dictionary-Learning)
+        - [2.2.3 Feature Mapping-Sample-Constraint-Label-Constraint](#2.2.3-Feature-Mapping-Sample-Constraint-Label-Constraint)
+        - [2.2.4 Feature Mapping-Sample-Constraint-Separate-Hamming](#2.2.4-Feature-Mapping-Sample-Constraint-Separate-Hamming)
+        - [2.2.5 Feature Mapping-Sample-Constraint-Common-Hamming](#2.2.5-Feature-Mapping-Sample-Constraint-Common-Hamming)
+        - [2.2.6 Feature Mapping-Relation-Constraint](#2.2.6-Feature-Mapping-Relation-Constraint)
+        - [2.2.7 Other Shallow](#2.2.7-Other-Shallow)
+        - [2.2.8 Naive Network-Distance-Constraint](#2.2.8-Naive-Network-Distance-Constraint)
+        - [2.2.9 Naive Network-Similarity-Constraint](#2.2.9-Naive-Network-Similarity-Constraint)
+        - [2.2.10 Naive Network-Negative-Log-Likelihood](#2.2.10-Naive-Network-Negative-Log-Likel-ihood)
+        - [2.2.11 Naive Network-Triplet-Constraint](#2.2.11-Naive-Network-Triplet-Constraint)
+        - [2.2.12 GAN](#2.2.12-gan)
+        - [2.2.13 Graph Model](#2.2.13-graph-model)
+        - [2.2.14 Transformer](#2.2.14-transformer)
+        - [2.2.15 Memory Network](#2.2.15-memory-Network)
+        - [2.2.16 Quantization](#2.2.16-quantization)
+    - [2.3 Unsupervised-cross-modal-real-valued](#2.3-unsupervised-cross-modal-real-valued)
+        - [2.3.1 CCA](#2.3.1-cca)
+        - [2.3.2 Topic Model](#2.3.2-topic-model)
+        - [2.3.3 Other Shallow](#2.3.3-other-shallow)
+        - [2.3.4 Neural Network](#2.3.4-neural-network)
+        - [2.3.5 Naive Network](#2.3.5-native-network)
+        - [2.3.6 Dot-product Attention](#2.3.6-dot-product-attention)
+        - [2.3.7 Graph Model](#2.3.7-graph-model)
+        - [2.3.8 Transformer](#2.3.8-transformer)
+        - [2.3.9 Cross-modal Generation](#2.3.9-cross-modal-generation)
+    - [2.4 Supervised-cross-modal-real-valued](#2.4-supervised-cross-modal-real-valued)
+        - [2.4.1 CCA](#2.4.1-cca)
+        - [2.4.2 Dictionary Learning](#2.4.2-dictionary-learning)
+        - [2.4.3 Feature Mapping](#2.4.3-feature-mapping)
+        - [2.4.4 Topic Model](#2.4.4-topic-model)
+        - [2.4.5 Other Shallow](#2.4.5-other-shallow)
+        - [2.4.6 Naive Network](#2.4.6-naive-network)
+        - [2.4.7 GAN](#2.4.7-gan)
+        - [2.4.8 Graph Model](#2.4.8-graph-model)
+        - [2.4.9 Transformer](#2.4.9-transformer)
+- [3. Usage](#3.-usage)
 
-# Introduction
+# 1. Introduction
 This library is an open-source repository that contains Unsupervised cross-modal real-valued methods and codes.
 
-# Supported Methods
+# 2. Supported Methods
 The currently supported algorithms include:
 
-## Unsupervised cross-modal hashing retrieval
+## 2.1 Unsupervised cross-modal hashing retrieval
 
-### Matrix Factorization
+### 2.1.1 Matrix Factorization
 
 #### 2017
 
@@ -74,7 +74,7 @@ The currently supported algorithms include:
 
 - **CMFH:Collective Matrix Factorization Hashing for Multimodal Data(CVPR)**[[PDF]](https://ieeexplore.ieee.org/document/6909664)
 
-### Graph Theory
+### 2.1.2 Graph Theory
 
 #### 2018
 
@@ -98,7 +98,7 @@ The currently supported algorithms include:
 
 - **CVH:Learning Hash Functions for Cross-View Similarity Search(IJCAI)**[[PDF]](https://dl.acm.org/doi/10.5555/2283516.2283623)
 
-### Other Shallow
+### 2.1.3 Other Shallow
 
 #### 2019
 
@@ -120,7 +120,7 @@ The currently supported algorithms include:
 
 - **PDH:Predictable Dual-View Hashing(ICML)**[[PDF]](https://dl.acm.org/doi/10.5555/3042817.3043085)
 
-### Quantization
+### 2.1.4 Quantization
 
 #### 2016
 
@@ -132,7 +132,7 @@ The currently supported algorithms include:
 
 - **ACQ:Alternating Co-Quantization for Cross-modal Hashing(ICCV)**[[PDF]](https://ieeexplore.ieee.org/document/7410576)
 
-### Naive Network
+### 2.1.5 Naive Network
 
 #### 2019
 
@@ -150,7 +150,7 @@ The currently supported algorithms include:
 
 - **DMHOR:Learning Compact Hash Codes for Multimodal Representations Using Orthogonal Deep Structure(TMM)**[[PDF]](https://ieeexplore.ieee.org/document/7154455)
 
-### GAN
+### 2.1.6 GAN 
 
 #### 2020
 
@@ -166,7 +166,7 @@ The currently supported algorithms include:
 
 - **UGACH:Unsupervised Generative Adversarial Cross-modal Hashing(AAAI)**[[PDF]](https://arxiv.org/abs/1712.00358)[[Code]](https://github.com/PKU-ICST-MIPL/UGACH_AAAI2018)
 
-### Graph Model
+### 2.1.7 Graph Model
 
 #### 2022
 
@@ -192,7 +192,7 @@ The currently supported algorithms include:
 
 - **DJSRH:Deep Joint-Semantics Reconstructing Hashing for Large-Scale Unsupervised Cross-Modal Retrieval(ICCV)**[[PDF]](https://ieeexplore.ieee.org/document/9009571)[[Code]](https://github.com/zs-zhong/DJSRH)
 
-### Knowledge Distillation
+### 2.1.8 Knowledge Distillation
 
 #### 2022
 
@@ -208,9 +208,9 @@ The currently supported algorithms include:
 
 - **UKD:Creating Something from Nothing: Unsupervised Knowledge Distillation for Cross-Modal Hashing(CVPR)**[[PDF]](https://arxiv.org/abs/2004.00280)
 
-## Supercised-cross-modal-hashing-retrieval
+## 2.2 Supercised-cross-modal-hashing-retrieval
 
-### Matrix Factorization
+### 2.2.1 Matrix Factorization
 
 #### 2022
 
@@ -240,7 +240,7 @@ The currently supported algorithms include:
 
 - **SMFH: Supervised Matrix Factorization Hashing for Cross-Modal Retrieval(TIP)**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/7466099)
 
-### Dictionary Learning
+### 2.2.2 Dictionary Learning
 
 #### 2016
 
@@ -250,7 +250,7 @@ The currently supported algorithms include:
 
 - **DLCMH: Dictionary Learning Based Hashing for Cross-Modal Retrieval(SIGIR)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/2964284.2967206)
 
-### Feature Mapping-Sample-Constraint-Label-Constraint
+### 2.2.3 Feature Mapping-Sample-Constraint-Label-Constraint
 
 #### 2022
 
@@ -264,7 +264,7 @@ The currently supported algorithms include:
 
 - **MDBE: Multimodal Discriminative Binary Embedding for Large-Scale Cross-Modal Retrieval(TIP)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/7515190) [[Code]](https://github.com/Wangdi-Xidian/MDBE)
 
-### Feature Mapping-Sample-Constraint-Separate-Hamming
+### 2.2.4 Feature Mapping-Sample-Constraint-Separate-Hamming
 
 #### 2017
 
@@ -278,7 +278,7 @@ The currently supported algorithms include:
 
 - **QCH: Quantized Correlation Hashing for Fast Cross-Modal Search(IJCAI)** [(PDF)](https://dl.acm.org/doi/abs/10.5555/2832747.2832799)
 
-### Feature Mapping-Sample-Constraint-Common Hamming
+### 2.2.5 Feature Mapping-Sample-Constraint-Common Hamming
 
 #### 2021
 
@@ -302,7 +302,7 @@ The currently supported algorithms include:
 
 - **SRDMH: Supervised Robust Discrete Multimodal Hashing for Cross-Media Retrieval(CIKM)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/2983323.2983743)
 
-### Feature Mapping-Relation-Constraint
+### 2.2.6 Feature Mapping-Relation-Constraint
 
 #### 2017
 
@@ -324,7 +324,7 @@ The currently supported algorithms include:
 
 - **CRH: Co-Regularized Hashing for Multimodal Data(CRH)** [(PDF)](https://proceedings.neurips.cc/paper_files/paper/2012/hash/5c04925674920eb58467fb52ce4ef728-Abstract.html)
 
-### Other Shallow
+### 2.2.7 Other Shallow
 
 #### 2019
 
@@ -346,7 +346,7 @@ The currently supported algorithms include:
 
 - **CMSSH: Data Fusion through Cross-modality Metric Learning using Similarity-Sensitive Hashing(CVPR)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/5539928)
 
-### Naive Network-Distance-Constraint
+### 2.2.8 Naive Network-Distance-Constraint
 
 #### 2019
 
@@ -362,7 +362,7 @@ The currently supported algorithms include:
 
 - **MMNN: Multimodal Similarity-Preserving Hashing(TPAMI)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/6654144)
 
-### Naive Network-Similarity-Constraint
+### 2.2.9 Naive Network-Similarity-Constraint
 
 #### 2022
 
@@ -390,7 +390,7 @@ The currently supported algorithms include:
 
 - **DVSH: Deep Visual-Semantic Hashing for Cross-Modal Retrieval(KDD)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/2939672.2939812)
 
-### Naive Network-Negative-Log-Likelihood
+### 2.2.10 Naive Network-Negative-Log-Likelihood
 
 #### 2022
 
@@ -422,7 +422,7 @@ The currently supported algorithms include:
 
 - **DCMH: Deep Cross-Modal Hashing(CVPR)** [(PDF)](https://openaccess.thecvf.com/content_cvpr_2017/html/Jiang_Deep_Cross-Modal_Hashing_CVPR_2017_paper.html) [[Code]](https://github.com/WendellGul/DCMH)
 
-### Naive Network-Triplet-Constraint
+### 2.2.11 Naive Network-Triplet-Constraint
 
 #### 2019
 
@@ -434,7 +434,7 @@ The currently supported algorithms include:
 
 - **TDH: Triplet-Based Deep Hashing Network for Cross-Modal Retrieval(TIP)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/8331146)
 
-### GAN
+### 2.2.12 GAN
 
 #### 2022
 
@@ -460,7 +460,7 @@ The currently supported algorithms include:
 
 - **SSAH: Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval(CVPR)** [(PDF)](https://openaccess.thecvf.com/content_cvpr_2018/html/Li_Self-Supervised_Adversarial_Hashing_CVPR_2018_paper.html) [[Code]](https://github.com/lelan-li/SSAH)
 
-### Graph Model
+### 2.2.13 Graph Model
 
 #### 2022
 
@@ -476,7 +476,7 @@ The currently supported algorithms include:
 
 - **GCH: Graph Convolutional Network Hashing for Cross-Modal Retrieval(IJCAI)** [(PDF)](https://dl.acm.org/doi/abs/10.5555/3367032.3367172) [[Code]](https://github.com/DeXie0808/GCH)
 
-### Transformer
+### 2.2.14 Transformer
 
 #### 2022
 
@@ -484,7 +484,7 @@ The currently supported algorithms include:
 
 - **UniHash: Contrastive Label Correlation Enhanced Unified Hashing Encoder for Cross-modal Retrieval(MM)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3511808.3557265) [[Code]](https://github.com/idealwhite/UniHash)
 
-### Memory Network
+### 2.2.15 Memory Network
 
 #### 2021
 
@@ -494,7 +494,7 @@ The currently supported algorithms include:
 
 - **CMMN: Deep Memory Network for Cross-Modal Retrieval(TMM)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/8506385)
 
-### Quantization
+### 2.2.16 Quantization
 
 #### 2022
 
@@ -504,9 +504,9 @@ The currently supported algorithms include:
 
 - **CDQ: Collective Deep Quantization for Efﬁcient Cross-Modal Retrieval(AAAI)** [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/11218) [[Code]](https://github.com/caoyue10/aaai17-cdq)
 
-## Unsupervised-cross-modal-real-valued
+## 2.3 Unsupervised-cross-modal-real-valued
 
-### CCA
+### 2.3.1 CCA
 #### 2017
 
 - **ICCA:Towards Improving Canonical Correlation Analysis for Cross-modal Retrieval(MM)** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3126686.3126726)
@@ -537,7 +537,7 @@ The currently supported algorithms include:
 
 - **CCA:A New Approach to Cross-Modal Multimedia Retrieval(MM)** [[PDF]](http://www.mit.edu/~rplevy/papers/rasiwasia-etal-2010-acm.pdf)[[Code]](https://github.com/emanuetre/crossmodal)
 
-### Topic Model
+### 2.3.2 Topic Model
 
 #### 2011
 
@@ -551,7 +551,7 @@ The currently supported algorithms include:
 
 - **Corr-LDA:Modeling Annotated Data(SIGIR)** [[PDF]](https://www.cs.columbia.edu/~blei/papers/BleiJordan2003.pdf)
 
-### Other Shallow
+### 2.3.3 Other Shallow
 
 #### 2013
 
@@ -575,7 +575,7 @@ The currently supported algorithms include:
 
 - **CFA:Multimedia Content Processing through Cross-Modal Association(MM)** [[PDF]](https://dl.acm.org/doi/10.1145/957013.957143)
 
-### Neural Network
+### 2.3.4 Neural Network
 
 #### 2018
 
@@ -601,7 +601,7 @@ The currently supported algorithms include:
 - **MDBM:Multimodal Learning with Deep Boltzmann Machines(NIPS)** [[PDF]](https://jmlr.org/papers/volume15/srivastava14b/srivastava14b.pdf)
 
 
-### Native Network
+### 2.3.5 Native Network
 
 #### 2022
 
@@ -647,7 +647,7 @@ The currently supported algorithms include:
 
 - **DT-RNN:Grounded Compositional Semantics for Finding and Describing Images with Sentences(TACL)** [[PDF]](https://aclanthology.org/Q14-1017.pdf)
 
-### Dot-product Attention
+### 2.3.6 Dot-product Attention
 
 #### 2020
 
@@ -679,7 +679,7 @@ The currently supported algorithms include:
 
 - **sm-LSTM:Instance-aware Image and Sentence Matching with Selective Multimodal LSTM(CVPR)** [[PDF]](https://arxiv.org/abs/1611.05588)
 
-### Graph Model
+### 2.3.7 Graph Model
 
 #### 2022
 
@@ -710,7 +710,7 @@ The currently supported algorithms include:
 
 - **VSRN:Visual Semantic Reasoning for Image-Text Matching(ICCV)** [[PDF]](https://arxiv.org/abs/1909.02701) [[Code]](https://github.com/KunpengLi1994/VSRN)
 
-### Transformer
+### 2.3.8 Transformer
 
 #### 2022
 
@@ -745,7 +745,7 @@ The currently supported algorithms include:
 
 - **PVSE:Polysemous Visual-Semantic Embedding for Cross-Modal Retrieval(CVPR)** [[PDF]](https://arxiv.org/abs/1906.04402) [[Code]](https://github.com/yalesong/pvse)
 
-### Cross-modal Generation
+### 2.3.9 Cross-modal Generation
 
 #### 2022
 
@@ -778,9 +778,9 @@ The currently supported algorithms include:
 - **DVSA:Deep Visual-Semantic Alignments for Generating Image Descriptions(CVPR)** [[PDF]](https://arxiv.org/abs/1412.2306)
 
 
-## Supervised-cross-modal-real-valued
+## 2.4 Supervised-cross-modal-real-valued
 
-### CCA
+### 2.4.1 CCA
 
 #### 2022
 
@@ -798,7 +798,7 @@ The currently supported algorithms include:
 
 - **GMA: Generalized Multiview Analysis: A Discriminative Latent Space(CVPR)**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/6247923) [[Code]](https://github.com/huyt16/Twitter100k/tree/master/code/GMA-CVPR2012)
 
-### Dictionary Learning
+### 2.4.2 Dictionary Learning
 
 #### 2018
 - **JDSLC: Joint Dictionary Learning and Semantic Constrained Latent Subspace Projection for Cross-Modal Retrieval(CIKM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3269206.3269296)
@@ -814,7 +814,7 @@ The currently supported algorithms include:
 
 - **SliM2: Supervised Coupled Dictionary Learning with Group Structures for Multi-Modal Retrieval(AAAI)**  [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/8603)
 
-### Feature Mapping
+### 2.4.3 Feature Mapping
 
 #### 2017
 
@@ -840,7 +840,7 @@ The currently supported algorithms include:
 
 - **Multi-NPP: Learning Multi-View Neighborhood Preserving Projections(ICML)**  [[PDF]](https://icml.cc/2011/papers/304_icmlpaper.pdf)
 
-### Topic Model
+### 2.4.4 Topic Model
 
 #### 2014
 
@@ -848,7 +848,7 @@ The currently supported algorithms include:
 
 - **NPBUS: Nonparametric Bayesian Upstream Supervised Multi-Modal Topic Models(WSDM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/2556195.2556238)
 
-### Other Shallow
+### 2.4.5 Other Shallow
 
 #### 2019
 
@@ -868,7 +868,7 @@ The currently supported algorithms include:
 
 - **PFAR: Parallel Field Alignment for Cross Media Retrieval(MM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/2502081.2502087)
 
-### Naive Network
+### 2.4.6 Naive Network
 
 #### 2022
 
@@ -904,7 +904,7 @@ The currently supported algorithms include:
 
 - **C2MLR: Deep Compositional Cross-modal Learning to Rank via Local-Global Alignment(MM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/2733373.2806240)
 
-### GAN
+### 2.4.7 GAN
 
 #### 2022
 
@@ -922,7 +922,7 @@ The currently supported algorithms include:
 
 - **ACMR: Adversarial Cross-Modal Retrieval(MM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3123266.3123326) [[Code]](https://github.com/cuishuhao/ACMR)
 
-### Graph Model
+### 2.4.8 Graph Model
 
 #### 2022
 
@@ -942,15 +942,15 @@ The currently supported algorithms include:
 
 - **SSPE: Learning Semantic Structure-preserved Embeddings for Cross-modal Retrieval(MM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3240508.3240521)
 
-### Transformer
+### 2.4.9 Transformer
 
 #### 2021
 
 - **RLCMR: Rethinking Label-Wise Cross-Modal Retrieval from A Semantic Sharing Perspective(IJCAI)**  [[PDF]](https://www.ijcai.org/proceedings/2021/0454.pdf)
 
-# Usage
+# 3. Usage
 
-## Datasets
+## 3.1 Datasets
 
 - **Graph Model--GCR**
 
