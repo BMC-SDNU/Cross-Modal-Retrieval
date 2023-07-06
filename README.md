@@ -2,7 +2,7 @@
 
 - [Introduction](#introduction)
 - [Supported Methods](#supported-methods)
-    - [Unsupercised-cross-modal-hashing-retrieval](#Unsupercised-cross-modal-hashing-retrieval)
+    - [Unsupercised-cross-modal-hashing-retrieval](#unsupervised-cross-modal-hashing)
         - [Matrix Factorization](#Matrix-Factorization)
         - [Graph Theory](#Graph-Theory)
         - [Other Shallow](#Other-Shallow)
@@ -314,7 +314,7 @@ The currently supported algorithms include:
 
 - **DVSA:Deep Visual-Semantic Alignments for Generating Image Descriptions(CVPR)** [[PDF]](https://arxiv.org/abs/1412.2306)
 
-# Unsupervised cross-modal hashing
+## Unsupervised cross-modal hashing
 
 ### Matrix Factorization
 
