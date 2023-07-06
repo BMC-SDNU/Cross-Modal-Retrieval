@@ -1,6 +1,6 @@
 # Cross-modal Retrieval
 
-- [1. Introduction](#1.-introduction)
+- [1. Introduction](#1-introduction)
 - [2. Supported Methods](#2.-supported-methods)
     - [2.1 Unsupercised-cross-modal-hashing-retrieval](#2.1-unsupervised-cross-modal-hashing-retrieval)
         - [2.1.1 Matrix Factorization](#2.1.1-matrix-factorization)
