@@ -1,0 +1,72 @@
+# overall mindspore training attributes
+mindspore_mode: "GRAPH" # GRAPH or PYNATIVE
+device_target: "GPU"
+device_id: 0
+
+num_epochs: 60
+bs: 32
+lr: 0.00004
+finetun_lr: 0.00004
+dis_lr: 0.0001
+gcn_lr: 0.2
+decay_rate: 0.9
+decay_steps: 3120
+warmup_steps: 1000
+valid_freq: 5
+
+grad_clip: 2.0
+
+db_num: 20371
+query_num: 2000
+
+log_file: 'log/'
+
+# flickr dataset attributes
+num_label: 24
+anno_file: 'path_to_your_dataset/f25k/annotations/f25k_v2.json'
+image_path: 'path_to_your_dataset/f25k/f25k_img'
+seq_len: 128
+bert_pretrain: 'bert-base-uncased'
+img_size: 224
+img_seq: 36 # img_seq = 196 if use_raw_img = True else 36
+use_raw_img: False # change img_seq and img_emb_dim meanwhile
+buf_feat: 'path_to_your_dataset/f25k/bu_att'
+buf_box: 'path_to_your_dataset/f25k/bu_box'
+
+# gcn attributes
+adj_path: 'path_to_your_dataset/f25k/gcn/adj_file.pkl'
+inp_path: 'path_to_your_dataset/f25k/gcn/label_w2v.6B.300d.npy'
+gcn_input_dim: 300
+gcn_hidden: 256
+gcn_dropout: 
+
+# discriminator attributes
+dis_hidden_dim: 512
+
+# scahn attributes
+img_emb_dim: 2048 # img_emb_dim = 768 if use_raw_img = True else 2048
+buf_num_layers: 4
+txt_emb_dim: 768
+emb_dim: 1024
+hash_bit: 64
+num_layers: 2
+
+loss_type: 'paco' # triplet or paco
+train_all: False
+
+K: 1024 # related to bs(must be n times of bs, n belongs to N+)
+paco_alpha: 0.07
+paco_beta: 1.0
+paco_gamma: 1.0
+paco_sup_t: 1.0
+paco_t: 0.05
+paco_base_t: 
+
+triplet_alpha: 1
+triplet_beta: 1
+triplet_gamma: 1
+triplet_margin: 0.3
+
+vit_ckpt: 'pretrained/mae_vit_base_16.ckpt'
+vit_type: 'vit_base_patch16'
+bert_ckpt: 'pretrained/bert_base_uncased.ckpt'
