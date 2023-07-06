@@ -314,6 +314,8 @@ The currently supported algorithms include:
 
 - **DVSA:Deep Visual-Semantic Alignments for Generating Image Descriptions(CVPR)** [[PDF]](https://arxiv.org/abs/1412.2306)
 
+# Unsupervised cross-modal hashing
+
 ### Matrix Factorization
 
 #### 2017
