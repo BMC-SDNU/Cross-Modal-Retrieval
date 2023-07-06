@@ -1,0 +1,9 @@
+fire==0.3.1
+future==0.18.2
+h5py==2.10.0
+numpy==1.22.0
+scipy==1.5.2
+tqdm==4.48.0
+visdom==0.1.8.9
+torchvision==0.7.0
+torch==1.6.0

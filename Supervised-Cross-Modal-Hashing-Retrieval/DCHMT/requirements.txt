@@ -1,0 +1,8 @@
+tqdm
+scipy
+numpy
+pillow
+matplotlib
+sklearn
+pytorch==1.9.1
+
