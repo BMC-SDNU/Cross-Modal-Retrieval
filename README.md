@@ -48,6 +48,13 @@
         - [2.4.7 GAN](#247-gan)
         - [2.4.8 Graph Model](#248-graph-model)
         - [2.4.9 Transformer](#249-transformer)
+    - [2.5 Extended cross-modal hashing retrieval](#25-extended-cross-modal-hashing-retrieval)
+        - [2.5.1 Semi-Supervised (Real-valued)](#251-semi-supervised-real-valued)
+        - [2.5.2Semi-Supervised (Hashing)](#252-semi-supervised-hashing)
+        - [2.5.3Imbalance (Real-valued)](#253-imbalance-real-valued)
+        - [2.5.4Imbalance (Hashing)](#254-imbalance-hashing)
+        - [2.5.5Incremental](#255-incremental)
+
 - [3. Usage](#3-usage)
 
 # 1. Introduction
@@ -947,6 +954,128 @@ The currently supported algorithms include:
 #### 2021
 
 - **RLCMR: Rethinking Label-Wise Cross-Modal Retrieval from A Semantic Sharing Perspective(IJCAI)**  [[PDF]](https://www.ijcai.org/proceedings/2021/0454.pdf)
+
+## 2.5 Extended cross-modal hashing retrieval
+
+### 2.5.1 Semi-Supervised (Real-valued)
+
+#### 2020
+
+- **SSCMR:Semi-Supervised Cross-Modal Retrieval With Label Prediction(TMM)** [[PDF]](https://ieeexplore.ieee.org/document/8907496)
+
+#### 2019
+
+- **A3VSE:Annotation Efficient Cross-Modal Retrieval with Adversarial Attentive Alignment(MM)** [[PDF]](https://dl.acm.org/doi/10.1145/3343031.3350894)
+
+- **ASFS:Adaptive Semi-Supervised Feature Selection for Cross-Modal Retrieval(TMM)** [[PDF]](https://ieeexplore.ieee.org/document/8501586)
+
+#### 2018
+
+- **GSS-SL:Generalized Semi-supervised and Structured Subspace Learning for Cross-Modal Retrieval(TMM)** [[PDF]](https://ieeexplore.ieee.org/document/7968473)
+
+#### 2017
+
+- **SSDC:Semi-supervised Distance Consistent Cross-modal Retrieval(VSCC)**[[PDF]](https://dl.acm.org/doi/abs/10.1145/3132734.3132735)
+
+#### 2013
+
+- **JRL:Learning Cross-Media Joint Representation With Sparse and Semisupervised Regularization(TCSVT)** [[PDF]](https://ieeexplore.ieee.org/document/6587747)[[Code]](https://github.com/PKU-ICST-MIPL/JRL_TCSVT2014)
+
+#### 2012
+
+- **MVML-GL:Multiview Metric Learning with Global Consistency and Local Smoothness(TIST)** [[PDF]](https://dl.acm.org/doi/10.1145/2168752.2168767)
+
+### 2.5.2 Semi-Supervised (Hashing)
+
+#### 2020
+
+- **SCH-GAN：Semi-Supervised Cross-Modal Hashing by Generative Adversarial Network(TC)** [[PDF]](https://ieeexplore.ieee.org/document/8472802) [[Code]](https://github.com/PKU-ICST-MIPL/SCHGAN_TCYB2018)
+
+- **SGCH:Semi-supervised graph convolutional hashing network for large-scale cross-modal retrieval(ICIP)** [[PDF]](https://ieeexplore.ieee.org/document/9190641)
+
+#### 2019
+
+- **SSDQ:Semi-supervised Deep Quantization for Cross-modal Search(MM)** [[PDF]](https://dl.acm.org/doi/10.1145/3343031.3350934)
+
+- **S3PH:Semi-supervised semantic-preserving hashing for efficient cross-modal retrieval(ICME)** [[PDF]](https://ieeexplore.ieee.org/document/8784930)
+
+#### 2017
+
+- **AUSL:Adaptively Uniﬁed Semi-supervised Learning for Cross-Modal Retrieval(IJCAI)** [[PDF]](https://www.ijcai.org/proceedings/2017/0476.pdf)
+
+#### 2016
+
+- **NPH:Neighborhood-Preserving Hashing for Large-Scale Cross-Modal Search(MM)** [[PDF]](https://dl.acm.org/doi/10.1145/2964284.2967241)
+
+### 2.5.3 Imbalance (Real-valued)
+
+#### 2021
+
+- **PAN: Prototype-based Adaptive Network for Robust Cross-modal Retrieval(SIGIR)** [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3404835.3462867)
+
+- **MCCN: Multimodal Coordinated Clustering Network for Large-Scale Cross-modal Retrieval(MM)** [[PDF]](https://dl.acm.org/doi/10.1145/3474085.3475670)
+
+#### 2020
+
+- **DAVAE:Incomplete Cross-modal Retrieval with Dual-Aligned Variational Autoencoders(MM)** [[PDF]](https://dl.acm.org/doi/10.1145/3394171.3413676)
+
+#### 2015
+
+- **SCDL:Semi-supervised Coupled Dictionary Learning for Cross-modal Retrieval in Internet Images and Texts(MM)** [[PDF]](https://dl.acm.org/doi/10.1145/2733373.2806346)
+
+- **LGCFL:Learning Consistent Feature Representation for Cross-Modal Multimedia Retrieval(TMM)** [[PDF]](https://ieeexplore.ieee.org/document/7006724)
+
+### 2.5.4 Imbalance (Hashing)
+
+#### 2020
+
+- **RUCMH:Robust Unsupervised Cross-modal Hashing for Multimedia Retrieval(TOIS)** [[PDF]](https://dl.acm.org/doi/10.1145/3389547)
+
+- **ATFH-N:Adversarial Tri-Fusion Hashing Network for Imbalanced Cross-Modal Retrieval(TETCI)** [[PDF]](https://ieeexplore.ieee.org/document/9139424)
+
+- **FlexCMH:Flexible Cross-Modal Hashing(TNNLS)** [[PDF]](https://ieeexplore.ieee.org/document/9223723)
+
+#### 2019
+
+- **TFNH:Triplet Fusion Network Hashing for Unpaired Cross-Modal Retrieval(ICMR)** [[PDF]](https://www.comp.hkbu.edu.hk/~ymc/papers/conference/icmr19-publication-version.pdf) [[Code]](https://github.com/hutt94/TFNH)
+
+- **CALM:Collective Afﬁnity Learning for Partial Cross-Modal Hashing(TIP)** [[PDF]](https://ieeexplore.ieee.org/document/8846593)
+
+- **MTFH: A Matrix Tri-Factorization Hashing Framework for Efﬁcient Cross-Modal Retrieval:(TIP)** [[PDF]](https://arxiv.org/abs/1805.01963) [[Code]](https://github.com/starxliu/MTFH)
+
+- **GSPH:Generalized Semantic Preserving Hashing for Cross-Modal Retrieval(TIP)** [[PDF]](https://ieeexplore.ieee.org/document/8425016)
+
+#### 2018
+
+- **DAH:Dense Auto-Encoder Hashing for Robust Cross-Modality Retrieval(MM)** [[PDF]](https://dl.acm.org/doi/10.1145/3240508.3240684)
+
+#### 2017
+
+- **GSPH:Generalized Semantic Preserving Hashing for n-Label Cross-Modal Retrieval(CVPR)** [[PDF]](https://ieeexplore.ieee.org/document/8099765) [[Code]](https://github.com/devraj89/Generalized-Semantic-Preserving-Hashing-for-N-Label-Cross-Modal-Retrieval)
+
+### 2.5.5 Incremental
+
+#### 2021
+
+- **MARS: Learning Modality-Agnostic Representation for Scalable Cross-Media Retrieval(TCSVT)** [[PDF]](https://ieeexplore.ieee.org/document/9654230)
+
+- **CCMR:Continual learning in cross-modal retrieval(CVPR)** [[PDF]](https://arxiv.org/abs/2104.06806)
+
+- **SCML:Real-world Cross-modal Retrieval via Sequential Learning(TMM)** [[PDF]](https://ieeexplore.ieee.org/document/9117043)
+
+#### 2020
+
+- **ATTL-CEL:Adaptive Temporal Triplet-loss for Cross-modal Embedding Learning(MM)**[[PDF]](https://dl.acm.org/doi/10.1145/3394171.3413540)
+
+#### 2019
+
+- **SVHNs:Separated Variational Hashing Networks for Cross-Modal Retrieval(MM)** [[PDF]](https://dl.acm.org/doi/10.1145/3343031.3351078)
+
+- **ECMH:Extensible Cross-Modal Hashing(IJCAI)** [[PDF]](https://www.ijcai.org/proceedings/2019/0292.pdf) [[Code]](https://github.com/3andero/Extensible-Cross-Modal-Hashing)
+
+#### 2018
+
+- **TempXNet:Temporal Cross-Media Retrieval with Soft-Smoothing(MM)** [[PDF]](https://arxiv.org/abs/1810.04547)
 
 # 3. Usage
 
