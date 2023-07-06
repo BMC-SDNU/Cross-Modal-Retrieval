@@ -1,0 +1,3 @@
+
+
+Started: 2017-09-23 15:23:46wikiData Bit 16:Runtime 1, Manifold Evaluation MAP [1.0000]wikiData Bit 16 Runtime 1 Sampling Type [Random] Sampling Num [50], Image query Text: MAP [0.202963]wikiData Bit 16 Runtime 1 Sampling Type [Random] Sampling Num [50], Text query Image: MAP [0.572735]wikiData Bit 16 Runtime 1 Sampling Type [Kmeans] Sampling Num [50], Image query Text: MAP [0.217428]wikiData Bit 16 Runtime 1 Sampling Type [Kmeans] Sampling Num [50], Text query Image: MAP [0.577937]
