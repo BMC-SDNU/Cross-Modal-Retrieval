@@ -48,7 +48,7 @@
         - [2.4.7 GAN](#247-gan)
         - [2.4.8 Graph Model](#248-graph-model)
         - [2.4.9 Transformer](#249-transformer)
-    - [2.5 Cross-modal Retrieval under Special Retrieval Scenario](#25-Cross-modal Retrieval under Special Retrieval Scenario)
+    - [2.5 Cross-modal-Retrieval-under-Special-Retrieval-Scenario](#25-Cross-modal-Retrieval-under-Special-Retrieval-Scenario)
         - [2.5.1 Semi-Supervised (Real-valued)](#251-semi-supervised-real-valued)
         - [2.5.2 Semi-Supervised (Hashing)](#252-semi-supervised-hashing)
         - [2.5.3 Imbalance (Real-valued)](#253-imbalance-real-valued)
@@ -961,7 +961,7 @@ The currently supported algorithms include:
 
 - **RLCMR: Rethinking Label-Wise Cross-Modal Retrieval from A Semantic Sharing Perspective(IJCAI)**  [[PDF]](https://www.ijcai.org/proceedings/2021/0454.pdf)
 
-## 2.5 Cross-modal Retrieval under Special Retrieval Scenario
+## 2.5 Cross-modal-Retrieval-under-Special-Retrieval-Scenario
 
 ### 2.5.1 Semi-Supervised (Real-valued)
 
