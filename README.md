@@ -519,7 +519,12 @@ The currently supported algorithms include:
 
 ## 2.3 Unsupervised-cross-modal-real-valued
 
+<details>
+
 ### 2.3.1 CCA
+
+<details>
+
 #### 2017
 
 - **ICCA:Towards Improving Canonical Correlation Analysis for Cross-modal Retrieval(MM)** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3126686.3126726)
@@ -550,7 +555,11 @@ The currently supported algorithms include:
 
 - **CCA:A New Approach to Cross-Modal Multimedia Retrieval(MM)** [[PDF]](http://www.mit.edu/~rplevy/papers/rasiwasia-etal-2010-acm.pdf)[[Code]](https://github.com/emanuetre/crossmodal)
 
+</details>
+
 ### 2.3.2 Topic Model
+
+<details>
 
 #### 2011
 
@@ -564,7 +573,11 @@ The currently supported algorithms include:
 
 - **Corr-LDA:Modeling Annotated Data(SIGIR)** [[PDF]](https://www.cs.columbia.edu/~blei/papers/BleiJordan2003.pdf)
 
+</details>
+
 ### 2.3.3 Other Shallow
+
+<details>
 
 #### 2013
 
@@ -588,7 +601,11 @@ The currently supported algorithms include:
 
 - **CFA:Multimedia Content Processing through Cross-Modal Association(MM)** [[PDF]](https://dl.acm.org/doi/10.1145/957013.957143)
 
+</details>
+
 ### 2.3.4 Neural Network
+
+<details>
 
 #### 2018
 
@@ -613,8 +630,11 @@ The currently supported algorithms include:
 
 - **MDBM:Multimodal Learning with Deep Boltzmann Machines(NIPS)** [[PDF]](https://jmlr.org/papers/volume15/srivastava14b/srivastava14b.pdf)
 
+</details>
 
 ### 2.3.5 Native Network
+
+<details>
 
 #### 2022
 
@@ -660,7 +680,11 @@ The currently supported algorithms include:
 
 - **DT-RNN:Grounded Compositional Semantics for Finding and Describing Images with Sentences(TACL)** [[PDF]](https://aclanthology.org/Q14-1017.pdf)
 
+</details>
+
 ### 2.3.6 Dot-product Attention
+
+<details>
 
 #### 2020
 
@@ -692,7 +716,11 @@ The currently supported algorithms include:
 
 - **sm-LSTM:Instance-aware Image and Sentence Matching with Selective Multimodal LSTM(CVPR)** [[PDF]](https://arxiv.org/abs/1611.05588)
 
+</details>
+
 ### 2.3.7 Graph Model
+
+<details>
 
 #### 2022
 
@@ -710,7 +738,6 @@ The currently supported algorithms include:
 
 #### 2020
 
-
 - **DSRAN:Learning Dual Semantic Relations with Graph Attention for Image-Text Matching(TCSVT)** [[PDF]](https://arxiv.org/abs/2010.11550) [[code]](https://github.com/kywen1119/DSRAN)
 
 - **VSM:Visual-Semantic Matching by Exploring High-Order Attention and Distraction(CVPR)** [[PDF]](https://ieeexplore.ieee.org/document/9157630)
@@ -723,7 +750,11 @@ The currently supported algorithms include:
 
 - **VSRN:Visual Semantic Reasoning for Image-Text Matching(ICCV)** [[PDF]](https://arxiv.org/abs/1909.02701) [[Code]](https://github.com/KunpengLi1994/VSRN)
 
+</details>
+
 ### 2.3.8 Transformer
+
+<details>
 
 #### 2022
 
@@ -758,7 +789,10 @@ The currently supported algorithms include:
 
 - **PVSE:Polysemous Visual-Semantic Embedding for Cross-Modal Retrieval(CVPR)** [[PDF]](https://arxiv.org/abs/1906.04402) [[Code]](https://github.com/yalesong/pvse)
 
+</details>
+
 ### 2.3.9 Cross-modal Generation
+<details>
 
 #### 2022
 
@@ -790,10 +824,18 @@ The currently supported algorithms include:
 
 - **DVSA:Deep Visual-Semantic Alignments for Generating Image Descriptions(CVPR)** [[PDF]](https://arxiv.org/abs/1412.2306)
 
+</details>
+
+
+</details>
 
 ## 2.4 Supervised-cross-modal-real-valued
 
+<details>
+
 ### 2.4.1 CCA
+
+<details>
 
 #### 2022
 
@@ -811,7 +853,11 @@ The currently supported algorithms include:
 
 - **GMA: Generalized Multiview Analysis: A Discriminative Latent Space(CVPR)**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/6247923) [[Code]](https://github.com/huyt16/Twitter100k/tree/master/code/GMA-CVPR2012)
 
+</details>
+
 ### 2.4.2 Dictionary Learning
+
+<details>
 
 #### 2018
 - **JDSLC: Joint Dictionary Learning and Semantic Constrained Latent Subspace Projection for Cross-Modal Retrieval(CIKM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3269206.3269296)
@@ -827,7 +873,11 @@ The currently supported algorithms include:
 
 - **SliM2: Supervised Coupled Dictionary Learning with Group Structures for Multi-Modal Retrieval(AAAI)**  [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/8603)
 
+</details>
+
 ### 2.4.3 Feature Mapping
+
+<details>
 
 #### 2017
 
@@ -853,7 +903,11 @@ The currently supported algorithms include:
 
 - **Multi-NPP: Learning Multi-View Neighborhood Preserving Projections(ICML)**  [[PDF]](https://icml.cc/2011/papers/304_icmlpaper.pdf)
 
+</details>
+
 ### 2.4.4 Topic Model
+
+<details>
 
 #### 2014
 
@@ -861,7 +915,11 @@ The currently supported algorithms include:
 
 - **NPBUS: Nonparametric Bayesian Upstream Supervised Multi-Modal Topic Models(WSDM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/2556195.2556238)
 
+</details>
+
 ### 2.4.5 Other Shallow
+
+<details>
 
 #### 2019
 
@@ -881,7 +939,11 @@ The currently supported algorithms include:
 
 - **PFAR: Parallel Field Alignment for Cross Media Retrieval(MM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/2502081.2502087)
 
+</details>
+
 ### 2.4.6 Naive Network
+
+<details>
 
 #### 2022
 
@@ -917,7 +979,11 @@ The currently supported algorithms include:
 
 - **C2MLR: Deep Compositional Cross-modal Learning to Rank via Local-Global Alignment(MM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/2733373.2806240)
 
+</details>
+
 ### 2.4.7 GAN
+
+<details>
 
 #### 2022
 
@@ -935,7 +1001,11 @@ The currently supported algorithms include:
 
 - **ACMR: Adversarial Cross-Modal Retrieval(MM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3123266.3123326) [[Code]](https://github.com/cuishuhao/ACMR)
 
+</details>
+
 ### 2.4.8 Graph Model
+
+<details>
 
 #### 2022
 
@@ -955,15 +1025,26 @@ The currently supported algorithms include:
 
 - **SSPE: Learning Semantic Structure-preserved Embeddings for Cross-modal Retrieval(MM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3240508.3240521)
 
+</details>
+
 ### 2.4.9 Transformer
+<details>
 
 #### 2021
 
 - **RLCMR: Rethinking Label-Wise Cross-Modal Retrieval from A Semantic Sharing Perspective(IJCAI)**  [[PDF]](https://www.ijcai.org/proceedings/2021/0454.pdf)
 
+</details>
+
+</details>
+
 ## 2.5 Cross-modal-Retrieval-under-Special-Retrieval-Scenario
 
+<details>
+
 ### 2.5.1 Semi-Supervised (Real-valued)
+
+<details>
 
 #### 2020
 
@@ -991,7 +1072,11 @@ The currently supported algorithms include:
 
 - **MVML-GL:Multiview Metric Learning with Global Consistency and Local Smoothness(TIST)** [[PDF]](https://dl.acm.org/doi/10.1145/2168752.2168767)
 
+</details>
+
 ### 2.5.2 Semi-Supervised (Hashing)
+
+<details>
 
 #### 2020
 
@@ -1013,7 +1098,11 @@ The currently supported algorithms include:
 
 - **NPH:Neighborhood-Preserving Hashing for Large-Scale Cross-Modal Search(MM)** [[PDF]](https://dl.acm.org/doi/10.1145/2964284.2967241)
 
+</details>
+
 ### 2.5.3 Imbalance (Real-valued)
+
+<details>
 
 #### 2021
 
@@ -1031,7 +1120,11 @@ The currently supported algorithms include:
 
 - **LGCFL:Learning Consistent Feature Representation for Cross-Modal Multimedia Retrieval(TMM)** [[PDF]](https://ieeexplore.ieee.org/document/7006724)
 
+</details>
+
 ### 2.5.4 Imbalance (Hashing)
+
+<details>
 
 #### 2020
 
@@ -1059,7 +1152,11 @@ The currently supported algorithms include:
 
 - **GSPH:Generalized Semantic Preserving Hashing for n-Label Cross-Modal Retrieval(CVPR)** [[PDF]](https://ieeexplore.ieee.org/document/8099765) [[Code]](https://github.com/devraj89/Generalized-Semantic-Preserving-Hashing-for-N-Label-Cross-Modal-Retrieval)
 
+</details>
+
 ### 2.5.5 Incremental
+
+<details>
 
 #### 2021
 
@@ -1083,7 +1180,11 @@ The currently supported algorithms include:
 
 - **TempXNet:Temporal Cross-Media Retrieval with Soft-Smoothing(MM)** [[PDF]](https://arxiv.org/abs/1810.04547)
 
+</details>
+
 ### 2.5.6 Noise
+
+<details>
 
 #### 2022
 
@@ -1101,7 +1202,11 @@ The currently supported algorithms include:
 
 - **WSJE: Webly Supervised Joint Embedding for Cross-Modal Image-Text Retrieval(MM)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3240508.3240712)
 
+</details>
+
 ### 2.5.7 Cross-Domain
+
+<details>
 
 #### 2021
 
@@ -1113,7 +1218,11 @@ The currently supported algorithms include:
 
 - **DASG: Unsupervised Cross-Media Retrieval Using Domain Adaptation With Scene Graph(TCSVT)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/8902166)
 
+</details>
+
 ### 2.5.8 Zero-Shot
+
+<details>
 
 #### 2020
 
@@ -1125,13 +1234,21 @@ The currently supported algorithms include:
 
 - **ZS-CMR: Learning Cross-Aligned Latent Embeddings for Zero-Shot Cross-Modal Retrieval(TIP)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/8743557)
 
+</details>
+
 ### 2.5.9 Few-Shot
+
+<details>
 
 #### 2021
 
 - **SOCMH: Know Yourself and Know Others: Efficient Common Representation Learning for Few-shot Cross-modal Retrieval(ICMR)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3460426.3463632)
 
+</details>
+
 ### 2.5.10 Online Learning
+
+<details>
 
 #### 2020
 
@@ -1151,7 +1268,11 @@ The currently supported algorithms include:
 
 - **OCMH: Online cross-modal hashing for web image retrieval(AAAI)** [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/9982)
 
+</details>
+
 ### 2.5.11 Hierarchical
+
+<details>
 
 #### 2020
 
@@ -1161,7 +1282,11 @@ The currently supported algorithms include:
 
 - **HiCHNet: Supervised Hierarchical Cross-Modal Hashing(SIGIR)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3331184.3331229) [[Code]](https://github.com/CCSun-cs/HichNet)
 
+</details>
+
 ### 2.5.12 Fine-grained
+
+<details>
 
 #### 2022
 
@@ -1170,6 +1295,11 @@ The currently supported algorithms include:
 #### 2019
 
 - **FGCrossNet: A New Benchmark and Approach for Fine-grained Cross-media Retrieval(MM)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3343031.3350974) [[Code]](https://github.com/PKU-ICST-MIPL/FGCrossNet_ACMMM2019)
+
+</details>
+
+
+</details>
 
 # 3. Usage
 
