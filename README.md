@@ -71,7 +71,11 @@ The currently supported algorithms include:
 
 ## 2.1 Unsupervised cross-modal hashing retrieval
 
+<details>
+
 ### 2.1.1 Matrix Factorization
+
+<details>
 
 #### 2017
 
@@ -87,7 +91,11 @@ The currently supported algorithms include:
 
 - **CMFH:Collective Matrix Factorization Hashing for Multimodal Data(CVPR)**[[PDF]](https://ieeexplore.ieee.org/document/6909664)
 
+</details>
+
 ### 2.1.2 Graph Theory
+
+<details>
 
 #### 2018
 
@@ -111,7 +119,11 @@ The currently supported algorithms include:
 
 - **CVH:Learning Hash Functions for Cross-View Similarity Search(IJCAI)**[[PDF]](https://dl.acm.org/doi/10.5555/2283516.2283623)
 
+</details>
+
 ### 2.1.3 Other Shallow
+
+<details>
 
 #### 2019
 
@@ -133,7 +145,11 @@ The currently supported algorithms include:
 
 - **PDH:Predictable Dual-View Hashing(ICML)**[[PDF]](https://dl.acm.org/doi/10.5555/3042817.3043085)
 
+</details>
+
 ### 2.1.4 Quantization
+
+<details>
 
 #### 2016
 
@@ -145,7 +161,11 @@ The currently supported algorithms include:
 
 - **ACQ:Alternating Co-Quantization for Cross-modal Hashing(ICCV)**[[PDF]](https://ieeexplore.ieee.org/document/7410576)
 
+</details>
+
 ### 2.1.5 Naive Network
+
+<details>
 
 #### 2019
 
@@ -163,7 +183,11 @@ The currently supported algorithms include:
 
 - **DMHOR:Learning Compact Hash Codes for Multimodal Representations Using Orthogonal Deep Structure(TMM)**[[PDF]](https://ieeexplore.ieee.org/document/7154455)
 
+</details>
+
 ### 2.1.6 GAN 
+
+<details>
 
 #### 2020
 
@@ -179,7 +203,11 @@ The currently supported algorithms include:
 
 - **UGACH:Unsupervised Generative Adversarial Cross-modal Hashing(AAAI)**[[PDF]](https://arxiv.org/abs/1712.00358)[[Code]](https://github.com/PKU-ICST-MIPL/UGACH_AAAI2018)
 
+</details>
+
 ### 2.1.7 Graph Model
+
+<details>
 
 #### 2022
 
@@ -205,7 +233,11 @@ The currently supported algorithms include:
 
 - **DJSRH:Deep Joint-Semantics Reconstructing Hashing for Large-Scale Unsupervised Cross-Modal Retrieval(ICCV)**[[PDF]](https://ieeexplore.ieee.org/document/9009571)[[Code]](https://github.com/zs-zhong/DJSRH)
 
+</details>
+
 ### 2.1.8 Knowledge Distillation
+
+<details>
 
 #### 2022
 
@@ -221,9 +253,17 @@ The currently supported algorithms include:
 
 - **UKD:Creating Something from Nothing: Unsupervised Knowledge Distillation for Cross-Modal Hashing(CVPR)**[[PDF]](https://arxiv.org/abs/2004.00280)
 
+</details>
+
+</details>
+
 ## 2.2 Supercised-cross-modal-hashing-retrieval
 
+<details>
+
 ### 2.2.1 Matrix Factorization
+
+<details>
 
 #### 2022
 
@@ -253,7 +293,11 @@ The currently supported algorithms include:
 
 - **SMFH: Supervised Matrix Factorization Hashing for Cross-Modal Retrieval(TIP)**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/7466099)
 
+</details>
+
 ### 2.2.2 Dictionary Learning
+
+<details>
 
 #### 2016
 
@@ -263,7 +307,11 @@ The currently supported algorithms include:
 
 - **DLCMH: Dictionary Learning Based Hashing for Cross-Modal Retrieval(SIGIR)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/2964284.2967206)
 
+</details>
+
 ### 2.2.3 Feature Mapping-Sample-Constraint-Label-Constraint
+
+<details>
 
 #### 2022
 
@@ -277,7 +325,11 @@ The currently supported algorithms include:
 
 - **MDBE: Multimodal Discriminative Binary Embedding for Large-Scale Cross-Modal Retrieval(TIP)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/7515190) [[Code]](https://github.com/Wangdi-Xidian/MDBE)
 
+</details>
+
 ### 2.2.4 Feature Mapping-Sample-Constraint-Separate-Hamming
+
+<details>
 
 #### 2017
 
@@ -291,7 +343,11 @@ The currently supported algorithms include:
 
 - **QCH: Quantized Correlation Hashing for Fast Cross-Modal Search(IJCAI)** [(PDF)](https://dl.acm.org/doi/abs/10.5555/2832747.2832799)
 
+</details>
+
 ### 2.2.5 Feature Mapping-Sample-Constraint-Common Hamming
+
+<details>
 
 #### 2021
 
@@ -315,7 +371,11 @@ The currently supported algorithms include:
 
 - **SRDMH: Supervised Robust Discrete Multimodal Hashing for Cross-Media Retrieval(CIKM)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/2983323.2983743)
 
+</details>
+
 ### 2.2.6 Feature Mapping-Relation-Constraint
+
+<details>
 
 #### 2017
 
@@ -337,7 +397,11 @@ The currently supported algorithms include:
 
 - **CRH: Co-Regularized Hashing for Multimodal Data(CRH)** [(PDF)](https://proceedings.neurips.cc/paper_files/paper/2012/hash/5c04925674920eb58467fb52ce4ef728-Abstract.html)
 
+</details>
+
 ### 2.2.7 Other Shallow
+
+<details>
 
 #### 2019
 
@@ -359,7 +423,11 @@ The currently supported algorithms include:
 
 - **CMSSH: Data Fusion through Cross-modality Metric Learning using Similarity-Sensitive Hashing(CVPR)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/5539928)
 
+</details>
+
 ### 2.2.8 Naive Network-Distance-Constraint
+
+<details>
 
 #### 2019
 
@@ -375,7 +443,11 @@ The currently supported algorithms include:
 
 - **MMNN: Multimodal Similarity-Preserving Hashing(TPAMI)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/6654144)
 
+</details>
+
 ### 2.2.9 Naive Network-Similarity-Constraint
+
+<details>
 
 #### 2022
 
@@ -403,7 +475,11 @@ The currently supported algorithms include:
 
 - **DVSH: Deep Visual-Semantic Hashing for Cross-Modal Retrieval(KDD)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/2939672.2939812)
 
+</details>
+
 ### 2.2.10 Naive Network-Negative-Log-Likelihood
+
+<details>
 
 #### 2022
 
@@ -435,7 +511,11 @@ The currently supported algorithms include:
 
 - **DCMH: Deep Cross-Modal Hashing(CVPR)** [(PDF)](https://openaccess.thecvf.com/content_cvpr_2017/html/Jiang_Deep_Cross-Modal_Hashing_CVPR_2017_paper.html) [[Code]](https://github.com/WendellGul/DCMH)
 
+</details>
+
 ### 2.2.11 Naive Network-Triplet-Constraint
+
+<details>
 
 #### 2019
 
@@ -447,7 +527,11 @@ The currently supported algorithms include:
 
 - **TDH: Triplet-Based Deep Hashing Network for Cross-Modal Retrieval(TIP)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/8331146)
 
+</details>
+
 ### 2.2.12 GAN
+
+<details>
 
 #### 2022
 
@@ -473,7 +557,11 @@ The currently supported algorithms include:
 
 - **SSAH: Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval(CVPR)** [(PDF)](https://openaccess.thecvf.com/content_cvpr_2018/html/Li_Self-Supervised_Adversarial_Hashing_CVPR_2018_paper.html) [[Code]](https://github.com/lelan-li/SSAH)
 
+</details>
+
 ### 2.2.13 Graph Model
+
+<details>
 
 #### 2022
 
@@ -489,7 +577,11 @@ The currently supported algorithms include:
 
 - **GCH: Graph Convolutional Network Hashing for Cross-Modal Retrieval(IJCAI)** [(PDF)](https://dl.acm.org/doi/abs/10.5555/3367032.3367172) [[Code]](https://github.com/DeXie0808/GCH)
 
+</details>
+
 ### 2.2.14 Transformer
+
+<details>
 
 #### 2022
 
@@ -497,7 +589,11 @@ The currently supported algorithms include:
 
 - **UniHash: Contrastive Label Correlation Enhanced Unified Hashing Encoder for Cross-modal Retrieval(MM)** [(PDF)](https://dl.acm.org/doi/abs/10.1145/3511808.3557265) [[Code]](https://github.com/idealwhite/UniHash)
 
+</details>
+
 ### 2.2.15 Memory Network
+
+<details>
 
 #### 2021
 
@@ -507,7 +603,11 @@ The currently supported algorithms include:
 
 - **CMMN: Deep Memory Network for Cross-Modal Retrieval(TMM)** [(PDF)](https://ieeexplore.ieee.org/abstract/document/8506385)
 
+</details>
+
 ### 2.2.16 Quantization
+
+<details>
 
 #### 2022
 
@@ -516,6 +616,10 @@ The currently supported algorithms include:
 #### 2017
 
 - **CDQ: Collective Deep Quantization for Efﬁcient Cross-Modal Retrieval(AAAI)** [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/11218) [[Code]](https://github.com/caoyue10/aaai17-cdq)
+
+</details>
+
+</details>
 
 ## 2.3 Unsupervised-cross-modal-real-valued
 
