@@ -1,8 +1,16 @@
 # Cross-modal Retrieval
 
+<details><summary>Directory</summary>
+
 - [1. Introduction](#1-introduction)
 - [2. Supported Methods](#2-supported-methods)
+
+    <details>
+
     - [2.1 Unsupercised-cross-modal-hashing-retrieval](#21-unsupervised-cross-modal-hashing-retrieval)
+
+        <details>
+
         - [2.1.1 Matrix Factorization](#211-matrix-factorization)
         - [2.1.2 Graph Theory](#212-graph-theory)
         - [2.1.3 Other Shallow](#213-other-shallow)
@@ -11,7 +19,13 @@
         - [2.1.6 GAN](#216-gan)
         - [2.1.7 Graph Model](#217-graph-model)
         - [2.1.8 Knowledge Distillation](#218-knowledge-distillation)
+
+        </details>
+
     - [2.2 Supercised-cross-modal-hashing-retrieval](#22-supercised-cross-modal-hashing-retrieval)
+
+        <details>
+
         - [2.2.1 Matrix Factorization](#221-matrix-factorization)
         - [2.2.2 Dictionary Learning](#222-Dictionary-Learning)
         - [2.2.3 Feature Mapping-Sample-Constraint-Label-Constraint](#223-Feature-Mapping-Sample-Constraint-Label-Constraint)
@@ -28,7 +42,13 @@
         - [2.2.14 Transformer](#2214-transformer)
         - [2.2.15 Memory Network](#2215-memory-Network)
         - [2.2.16 Quantization](#2216-quantization)
+
+        </details>
+
     - [2.3 Unsupervised-cross-modal-real-valued](#23-unsupervised-cross-modal-real-valued)
+
+        <details>
+
         - [2.3.1 CCA](#231-cca)
         - [2.3.2 Topic Model](#232-topic-model)
         - [2.3.3 Other Shallow](#233-other-shallow)
@@ -38,7 +58,13 @@
         - [2.3.7 Graph Model](#237-graph-model)
         - [2.3.8 Transformer](#238-transformer)
         - [2.3.9 Cross-modal Generation](#239-cross-modal-generation)
+
+        </details>
+
     - [2.4 Supervised-cross-modal-real-valued](#24-supervised-cross-modal-real-valued)
+
+        <details>
+
         - [2.4.1 CCA](#241-cca)
         - [2.4.2 Dictionary Learning](#242-dictionary-learning)
         - [2.4.3 Feature Mapping](#243-feature-mapping)
@@ -48,7 +74,13 @@
         - [2.4.7 GAN](#247-gan)
         - [2.4.8 Graph Model](#248-graph-model)
         - [2.4.9 Transformer](#249-transformer)
+
+        </details>
+
     - [2.5 Cross-modal-Retrieval-under-Special-Retrieval-Scenario](#25-Cross-modal-Retrieval-under-Special-Retrieval-Scenario)
+
+        <details>
+
         - [2.5.1 Semi-Supervised (Real-valued)](#251-semi-supervised-real-valued)
         - [2.5.2 Semi-Supervised (Hashing)](#252-semi-supervised-hashing)
         - [2.5.3 Imbalance (Real-valued)](#253-imbalance-real-valued)
@@ -61,13 +93,22 @@
         - [2.5.10 Online Learning](#2510-Online-Learning)
         - [2.5.11 Hierarchical](#2511-Hierarchical)
         - [2.5.12 Fine-grained](#2512-Fine-grained)
+        
+        </details>
+
+    </details>
+
 - [3. Usage](#3-usage)
 
+</details>
+
 # 1. Introduction
-This library is an open-source repository that contains Unsupervised cross-modal real-valued methods and codes.
+This library is an open-source repository that contains cross-modal retrieval methods and codes.
 
 # 2. Supported Methods
 The currently supported algorithms include:
+
+<details>
 
 ## 2.1 Unsupervised cross-modal hashing retrieval
 
@@ -1402,6 +1443,8 @@ The currently supported algorithms include:
 
 </details>
 
+
+</details>
 
 </details>
 
