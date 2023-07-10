@@ -80,19 +80,19 @@ This library is an open-source repository that contains cross-modal retrieval me
 # 2. Supported Methods
 The currently supported algorithms include:
 
-><details>
+<details>
 
 ## 2.1 Unsupervised cross-modal hashing retrieval
 
->><details>
+<details>
 
 ### 2.1.1 Unsupervised shallow cross-modal hashing retrieval
 
->>><details>
+<details>
 
 #### 2.1.1.1 Matrix Factorization
 
->>>><details>
+<details>
 
 ##### 2017
 
