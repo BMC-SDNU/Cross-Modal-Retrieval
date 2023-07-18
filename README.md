@@ -80,19 +80,19 @@ This library is an open-source repository that contains cross-modal retrieval me
 # 2. Supported Methods
 The currently supported algorithms include:
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ## 2.1 Unsupervised cross-modal hashing retrieval
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ### 2.1.1 Unsupervised shallow cross-modal hashing retrieval
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 #### 2.1.1.1 Matrix Factorization
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2017
 
@@ -112,7 +112,7 @@ The currently supported algorithms include:
 
 #### 2.1.1.2 Graph Theory
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2018
 
@@ -140,7 +140,7 @@ The currently supported algorithms include:
 
 #### 2.1.1.3 Other Shallow
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2019
 
@@ -166,7 +166,7 @@ The currently supported algorithms include:
 
 #### 2.1.1.4 Quantization
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2016
 
@@ -184,11 +184,11 @@ The currently supported algorithms include:
 
 ### 2.1.2 Unsupervised deep cross-modal hashing retrieval
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 #### 2.1.2.1 Naive Network
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2019
 
@@ -210,7 +210,7 @@ The currently supported algorithms include:
 
 #### 2.1.2.2 GAN 
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2020
 
@@ -230,7 +230,7 @@ The currently supported algorithms include:
 
 #### 2.1.2.3 Graph Model
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2022
 
@@ -260,7 +260,7 @@ The currently supported algorithms include:
 
 #### 2.1.2.4 Knowledge Distillation
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2022
 
@@ -284,15 +284,15 @@ The currently supported algorithms include:
 
 ## 2.2 Supervised-cross-modal-hashing-retrieval
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ### 2.2.1 Supervised shallow cross-modal hashing retrieval
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 #### 2.2.1.1 Matrix Factorization
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2022
 
@@ -326,7 +326,7 @@ The currently supported algorithms include:
 
 #### 2.2.1.2 Dictionary Learning
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2016
 
@@ -340,7 +340,7 @@ The currently supported algorithms include:
 
 #### 2.2.1.3 Feature Mapping-Sample-Constraint-Label-Constraint
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2022
 
@@ -358,7 +358,7 @@ The currently supported algorithms include:
 
 #### 2.2.1.4 Feature Mapping-Sample-Constraint-Separate-Hamming
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2017
 
@@ -376,7 +376,7 @@ The currently supported algorithms include:
 
 #### 2.2.1.5 Feature Mapping-Sample-Constraint-Common Hamming
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2021
 
@@ -404,7 +404,7 @@ The currently supported algorithms include:
 
 #### 2.2.1.6 Feature Mapping-Relation-Constraint
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2017
 
@@ -430,7 +430,7 @@ The currently supported algorithms include:
 
 #### 2.2.1.7 Other Shallow
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2019
 
@@ -458,11 +458,11 @@ The currently supported algorithms include:
 
 ### 2.2.2 Supervised deep cross-modal hashing retrieval
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 #### 2.2.2.1 Naive Network-Distance-Constraint
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2019
 
@@ -482,7 +482,7 @@ The currently supported algorithms include:
 
 #### 2.2.2.2 Naive Network-Similarity-Constraint
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2022
 
@@ -514,7 +514,7 @@ The currently supported algorithms include:
 
 #### 2.2.2.3 Naive Network-Negative-Log-Likelihood
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2022
 
@@ -550,7 +550,7 @@ The currently supported algorithms include:
 
 #### 2.2.2.4 Naive Network-Triplet-Constraint
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2019
 
@@ -566,7 +566,7 @@ The currently supported algorithms include:
 
 #### 2.2.2.5 GAN
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2022
 
@@ -596,7 +596,7 @@ The currently supported algorithms include:
 
 #### 2.2.2.6 Graph Model
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2022
 
@@ -616,7 +616,7 @@ The currently supported algorithms include:
 
 #### 2.2.2.7 Transformer
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2022
 
@@ -628,7 +628,7 @@ The currently supported algorithms include:
 
 #### 2.2.2.8 Memory Network
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2021
 
@@ -642,7 +642,7 @@ The currently supported algorithms include:
 
 #### 2.2.2.9 Quantization
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2022
 
@@ -660,15 +660,15 @@ The currently supported algorithms include:
 
 ## 2.3 Unsupervised-cross-modal-real-valued
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ### 2.3.1 Early unsupervised cross-modal real-valued retrieval
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 #### 2.3.1.1 CCA
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2017
 
@@ -704,7 +704,7 @@ The currently supported algorithms include:
 
 #### 2.3.1.2 Topic Model
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2011
 
@@ -722,7 +722,7 @@ The currently supported algorithms include:
 
 #### 2.3.1.3 Other Shallow
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2013
 
@@ -750,7 +750,7 @@ The currently supported algorithms include:
 
 #### 2.3.1.4 Neural Network
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2018
 
@@ -781,11 +781,11 @@ The currently supported algorithms include:
 
 ### 2.3.2 Image-text matching retrieval
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 #### 2.3.2.1 Native Network
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2022
 
@@ -835,7 +835,7 @@ The currently supported algorithms include:
 
 #### 2.3.2.2 Dot-product Attention
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2020
 
@@ -871,7 +871,7 @@ The currently supported algorithms include:
 
 #### 2.3.2.3 Graph Model
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2022
 
@@ -905,7 +905,7 @@ The currently supported algorithms include:
 
 #### 2.3.2.4 Transformer
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2022
 
@@ -944,7 +944,7 @@ The currently supported algorithms include:
 
 #### 2.3.2.5 Cross-modal Generation
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2022
 
@@ -985,15 +985,15 @@ The currently supported algorithms include:
 
 ## 2.4 Supervised-cross-modal-real-valued
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ### 2.4.1 Supervised shallow cross-modal real-valued retrieval
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 #### 2.4.1.1 CCA
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2022
 
@@ -1015,7 +1015,7 @@ The currently supported algorithms include:
 
 #### 2.4.1.2 Dictionary Learning
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2018
 - **JDSLC: Joint Dictionary Learning and Semantic Constrained Latent Subspace Projection for Cross-Modal Retrieval(CIKM)**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3269206.3269296)
@@ -1035,7 +1035,7 @@ The currently supported algorithms include:
 
 #### 2.4.1.3 Feature Mapping
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2017
 
@@ -1065,7 +1065,7 @@ The currently supported algorithms include:
 
 #### 2.4.1.4 Topic Model
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2014
 
@@ -1077,7 +1077,7 @@ The currently supported algorithms include:
 
 #### 2.4.1.5 Other Shallow
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2019
 
@@ -1103,11 +1103,11 @@ The currently supported algorithms include:
 
 ### 2.4.2 Supervised deep cross-modal real-valued retrieval
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 #### 2.4.2.1 Naive Network
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2022
 
@@ -1147,7 +1147,7 @@ The currently supported algorithms include:
 
 #### 2.4.2.2 GAN
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2022
 
@@ -1169,7 +1169,7 @@ The currently supported algorithms include:
 
 #### 2.4.2.3 Graph Model
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2022
 
@@ -1192,7 +1192,7 @@ The currently supported algorithms include:
 </details>
 
 #### 2.4.2.4 Transformer
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2021
 
@@ -1206,11 +1206,11 @@ The currently supported algorithms include:
 
 ## 2.5 Cross-modal-Retrieval-under-Special-Retrieval-Scenario
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 #### 2.5.1 Semi-Supervised (Real-valued)
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2020
 
@@ -1242,7 +1242,7 @@ The currently supported algorithms include:
 
 #### 2.5.2 Semi-Supervised (Hashing)
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2020
 
@@ -1268,7 +1268,7 @@ The currently supported algorithms include:
 
 #### 2.5.3 Imbalance (Real-valued)
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2021
 
@@ -1290,7 +1290,7 @@ The currently supported algorithms include:
 
 #### 2.5.4 Imbalance (Hashing)
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2020
 
@@ -1322,7 +1322,7 @@ The currently supported algorithms include:
 
 #### 2.5.5 Incremental
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2021
 
@@ -1350,7 +1350,7 @@ The currently supported algorithms include:
 
 #### 2.5.6 Noise
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2022
 
@@ -1372,7 +1372,7 @@ The currently supported algorithms include:
 
 #### 2.5.7 Cross-Domain
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2021
 
@@ -1388,7 +1388,7 @@ The currently supported algorithms include:
 
 #### 2.5.8 Zero-Shot
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2020
 
@@ -1404,7 +1404,7 @@ The currently supported algorithms include:
 
 #### 2.5.9 Few-Shot
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2021
 
@@ -1414,7 +1414,7 @@ The currently supported algorithms include:
 
 #### 2.5.10 Online Learning
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2020
 
@@ -1438,7 +1438,7 @@ The currently supported algorithms include:
 
 #### 2.5.11 Hierarchical
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2020
 
@@ -1452,7 +1452,7 @@ The currently supported algorithms include:
 
 #### 2.5.12 Fine-grained
 
-<details>
+<details><summary><em>[Click to expand]</em></summary>
 
 ##### 2022
 
